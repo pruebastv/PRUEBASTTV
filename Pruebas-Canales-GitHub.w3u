@@ -6,7 +6,7 @@
   "info": "Se elude todo mal uso o responsabilidad del uso que se de",
   "groups": [
     {
-      "name": "No Actualiza",
+      "name": "Actualiza",
       "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
       "imageScale": "",
       "info": "",
@@ -154,6 +154,7 @@
     },
   ]
 }
+
 
 
 
