@@ -6,7 +6,7 @@
   "info": "Se elude todo mal uso o responsabilidad del uso que se de",
   "groups": [
     {
-      "name": "Actualizado",
+      "name": "No Actualiza",
       "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
       "imageScale": "",
       "info": "",
@@ -150,12 +150,6 @@
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://5b41b5e0f7fb0c2c420158a83a12e8ceed4a7420"
         },
-        {
-          "name": "DAZN LaLiga 3 (1080)(Elcano)",
-          "info": "[SIN EMISION]",
-          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://"
-        }
       ]
     },
   ]
