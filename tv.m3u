@@ -1,3 +1,502 @@
+# Prueba codigo auto Actualizale
+
+# Pegar Codigo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Fin Aprox del Codigo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/tv.m3u"
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
@@ -28,145 +527,127 @@ plugin://script.module.horus?action=play&id=ad42faa399df66dcd62a1cbc9d1c99ed4512
 plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 2", DAZN LaLiga FHD 2
-plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+plugin://script.module.horus?action=play&id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 4", DAZN LaLiga FHD 4
+plugin://script.module.horus?action=play&id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+plugin://script.module.horus?action=play&id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+plugin://script.module.horus?action=play&id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD 2", DAZN LaLiga 2 FHD 2
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+plugin://script.module.horus?action=play&id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD 3", DAZN LaLiga 2 FHD 3
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+plugin://script.module.horus?action=play&id=635b61c1f240449163260cd914d10d886a54fee3
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 HD
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c8d36
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
-plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
+plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD 2", LaLiga Hypermotion FHD 2
-plugin://script.module.horus?action=play&id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
+plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
-plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="M+Deportes" tvg-id="Movistar+ FHD 2", Movistar+ FHD 2
-plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="M+Deportes" tvg-id="Movistar+ FHD 3", Movistar+ FHD 3
-plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
+plugin://script.module.horus?action=play&id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
-plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="M+Deportes" tvg-id="Vamos HD", Vamos HD
+plugin://script.module.horus?action=play&id=0e5d8c9724fa9163f49096b70484e315251eb785
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
-plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
+plugin://script.module.horus?action=play&id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="M+Deportes" tvg-id="M+ Deportes FHD 2", M+ Deportes FHD 2
+plugin://script.module.horus?action=play&id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
-plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
+plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="M+Deportes" tvg-id="M+ Deportes FHD 2", M+ Deportes FHD 2
-plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="M+Deportes" tvg-id="M+ Deportes 2 FHD", M+ Deportes FHD
+plugin://script.module.horus?action=play&id=6e212a916c83638268047dd2757c95b14f7d25a3
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="M+Deportes" tvg-id="M+ Deportes FHD 3", M+ Deportes FHD 3
-plugin://script.module.horus?action=play&id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-
-#EXTINF:-1 tvg-logo="https://api.dondeverlo.com/img/channels/movistar-deportes4.png" group-title="M+Deportes" tvg-id="M+ Deportes FHD 4", M+ Deportes FHD 4
-plugin://script.module.horus?action=play&id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="M+Deportes" tvg-id="M+ Deportes FHD 5", M+ Deportes FHD 5
-plugin://script.module.horus?action=play&id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="M+Deportes" tvg-id="M+ Deportes 2 FHD 2", M+ Deportes 2 FHD 2
+plugin://script.module.horus?action=play&id=edd06f11e1cef292a1d795e15207ef2f580e298c
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="M+Deportes" tvg-id="Eurosport 1 HD", Eurosport 1 HD
-plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 2", Eurosport 1 FHD 2
+plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
-plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
+plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="M+Deportes" tvg-id="Eurosport 2 HD", Eurosport 2 HD
-plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="M+Deportes" tvg-id="Eurosport 2 FHD 2", Eurosport 2 FHD 2
+plugin://script.module.horus?action=play&id=2773b39926d15dd3d9495d94c4050604792d7031
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
-plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
+plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ChampionsLeague" "Liga de Campeones FHD 2", Liga de Campeones FHD 2
-plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+plugin://script.module.horus?action=play&id=2b51710cee513e8939785fa3e7980f32d4e0415f
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ChampionsLeague" "Liga de Campeones FHD 3", Liga de Campeones FHD 3
-plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ChampionsLeague" "Liga de Campeones FHD 4", Liga de Campeones FHD 4
-plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ChampionsLeague" "Liga de Campeones FHD 5", Liga de Campeones FHD 5
-plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+plugin://script.module.horus?action=play&id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones HD", Liga de Campeones HD
-plugin://script.module.horus?action=play&id=e2e2aca792aae5da19995ac516b1d620531bd49c
+plugin://script.module.horus?action=play&id=b028202ff335911db3118bceac027df3e8ef6c32
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD", Liga de Campeones 2 FHD
-plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD 2", Liga de Campeones 2 FHD 2
-plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+plugin://script.module.horus?action=play&id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 HD", Liga de Campeones 2 HD
-plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9v
+plugin://script.module.horus?action=play&id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 3 FHD", Liga de Campeones 3 FHD
-plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
+plugin://script.module.horus?action=play&id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 3 HD", Liga de Campeones 3 HD
-plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
+plugin://script.module.horus?action=play&id=cfc371890bfb502737a26de5215e50929c52d0f9
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 4 FHD", Liga de Campeones 4 FHD
-plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ChampionsLeague" tvg-id="Liga de Campeones 4 HD", Liga de Campeones 4 HD
-plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
+plugin://script.module.horus?action=play&id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN" tvg-id="DAZN 1 FHD", DAZN 1 FHD
-plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
+plugin://script.module.horus?action=play&id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN" tvg-id="DAZN 1 FHD 2", DAZN 1 FHD 2
-plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
+plugin://script.module.horus?action=play&id=6538b79ce0da657d8455d1da6a5f342398899a0e
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN" tvg-id="DAZN 1 FHD 3", DAZN 1 FHD 3
-plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
+plugin://script.module.horus?action=play&id=4141892f5df7d6474bf0279895ce02b7336c9928
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 HD
-plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN" tvg-id="DAZN 1 FHD 4", DAZN 1 FHD 4
+plugin://script.module.horus?action=play&id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="DAZN" tvg-id="DAZN 2 FHD", DAZN 2 FHD
-plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+plugin://script.module.horus?action=play&id=43004e955731cd3afcc34d24e5178d4b427bff37
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="DAZN" tvg-id="DAZN 2 HD", DAZN 2 HD
-plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+plugin://script.module.horus?action=play&id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="DAZN" tvg-id="DAZN 3 FHD", DAZN 3 FHD
-plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+plugin://script.module.horus?action=play&id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="DAZN" tvg-id="DAZN 3 HD", DAZN 3 HD
-plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+plugin://script.module.horus?action=play&id=4e401fdceebffdf1f09aef954844d09f6c62f460
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="DAZN" tvg-id="DAZN 4 FHD", DAZN 4 FHD
-plugin://script.module.horus?action=play&id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+plugin://script.module.horus?action=play&id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 HD
-plugin://script.module.horus?action=play&id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+plugin://script.module.horus?action=play&id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=6422e8bc34282871634c81947be093c04ad1bb29
@@ -178,7 +659,73 @@ plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bb
 plugin://script.module.horus?action=play&id=515efd8115482bda8d92aa6df9a882a5e5797494
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1" tvg-id="DAZN F1 FHD 4", DAZN F1 FHD 4
-plugin://script.module.horus?action=play&id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+plugin://script.module.horus?action=play&id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1" tvg-id="DAZN F1 FHD 5", DAZN F1 FHD 5
+plugin://script.module.horus?action=play&id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1" tvg-id="DAZN F1 FHD 6", DAZN F1 FHD 6
+plugin://script.module.horus?action=play&id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1" tvg-id="DAZN F1 FHD 7", DAZN F1 FHD 7
 plugin://script.module.horus?action=play&id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1" tvg-id="DAZN F1 FHD 8", DAZN F1 FHD 8
+plugin://script.module.horus?action=play&id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz7j2PpQ/espn-logo.png" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
+plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz7j2PpQ/espn-logo.png" group-title="Xtras" tvg-id="ESPN 2 (BE)", ESPN 2 (BE)
+plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
+plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD1vR6KN/BT-Sport-2-new.png" group-title="Xtras" tvg-id="TNT Sport2 (UK)", TNT Sport2 (UK)
+plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/br5YJPLF/BT-Sport-3-new.png" group-title="Xtras" tvg-id="TNT Sport3 (UK)", TNT Sport3 (UK)
+plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCY2pJFb/BT-Sport-4-new.png" group-title="Xtras" tvg-id="TNT Sport4 (UK)", TNT Sport4 (UK)
+plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="Xtras" tvg-id="Sky Sport Football (UK))", Sky Sport Football (UK)
+plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="Xtras" tvg-id="Sky Sport Main Event (UK)", Sky Sport Main Event (UK)
+plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDjFKyBS/premier-sport-1.png" group-title="Xtras" tvg-id="Premier Sports 1 (UK)", Premier Sports 1 (UK)
+plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png" group-title="Xtras" tvg-id="Premier Sports 2 (UK)", Premier Sports 2 (UK)
+plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhdtVMq/Bein.jpg" group-title="Xtras" tvg-id="Bein SPORTS 1 (BE)", Bein SPORTS 1 (BE)
+plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhdtVMq/Bein.jpg" group-title="Xtras" tvg-id="Bein SPORTS 2 (BE)", Bein SPORTS 2 (BE)
+plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhdtVMq/Bein.jpg" group-title="Xtras" tvg-id="Bein SPORTS 3 (BE)", Bein SPORTS 3 (BE)
+plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnytndG2/eleven-sport-1.png" group-title="Xtras" tvg-id="Eleven Sport 1 (BE)", Eleven Sport 1 (BE)
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP9JZ2D/eleven-sport-2.png" group-title="Xtras" tvg-id="Eleven Sport 2 (PL)", Eleven Sport 2 (PL)
+plugin://script.module.horus?action=play&id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXjcwDJQ/eleven-sport-3.png" group-title="Xtras" tvg-id="Eleven Sport 3 (PL)", Eleven Sport 3 (PL)
+plugin://script.module.horus?action=play&id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52MKb6sh/eleven-sport-4.png" group-title="Xtras" tvg-id="Eleven Sport 4 (PL)", Eleven Sport 4 (PL)
+plugin://script.module.horus?action=play&id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fThn7HgB/Redbull.png" group-title="Xtras" tvg-id="RED BULL TV", RED BULL TV
+plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb7095
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
+plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
