@@ -728,7 +728,7 @@ plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
 plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/PRUEBASTTV/blob/main/m-la-liga.png" group-title="Xtras" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/m-la-liga.png" group-title="Xtras" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-logo="https://dn721806.ca.archive.org/0/items/dazn-la-liga-2023/DAZN_LaLiga_2023.png" group-title="Xtras" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
