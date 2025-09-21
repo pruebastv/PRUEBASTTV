@@ -23,9 +23,6 @@ plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="M+Deportes" tvg-id="Eurosport2 HD", Eurosport2 HD
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV-en-DIRECTO-Online-y-en-vivo.png" group-title="M+Deportes" tvg-id="Real Madrid TV", Real Madrid TV
-plugin://script.module.horus?action=play&id=0ec3f3786318acd8dca2588f74c3759cda76cd11
-
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="M+Deportes" tvg-id="Movistar+", Movistar+
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
