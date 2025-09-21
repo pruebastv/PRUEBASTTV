@@ -500,10 +500,10 @@
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/m-la-liga.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
 plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/m-la-ligac.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
 plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
@@ -527,10 +527,10 @@ plugin://script.module.horus?action=play&id=ad42faa399df66dcd62a1cbc9d1c99ed4512
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 2", DAZN LaLiga FHD 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/dazn-la-liga.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 2", DAZN LaLiga FHD 2
 plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/dazn-la-liga-v2.png" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
 plugin://script.module.horus?action=play&id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 4", DAZN LaLiga FHD 4
@@ -730,9 +730,3 @@ plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
 plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/m-la-liga.png" group-title="Xtras" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-
-#EXTINF:-1 tvg-logo="https://dn721806.ca.archive.org/0/items/dazn-la-liga-2023/DAZN_LaLiga_2023.png" group-title="Xtras" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
-acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
