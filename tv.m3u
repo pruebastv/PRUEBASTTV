@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/pruebastv/PRUEBASTTV/blob/main/tv.m3u"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/tv.m3u"
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="M+Deportes" tvg-id="#Vamos - 1080p", #Vamos - 1080p
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
