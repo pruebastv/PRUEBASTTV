@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/tv.m3u"
 # Prueba codigo auto Actualizale
 
 # Pegar Codigo
@@ -495,9 +496,6 @@
 
 
 
-
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/tv.m3u"
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
