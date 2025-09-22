@@ -730,3 +730,33 @@ plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
 plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Estrenos (FHD)", Movistar Estrenos (FHD)
+plugin://script.module.horus?action=play&id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Documentales (FHD)", Movistar Documentales (FHD)
+plugin://script.module.horus?action=play&id=b3fc9b5647c5933b101c0b6b64322590c68587b9
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Originales (FHD)", Movistar Originales (FHD)
+plugin://script.module.horus?action=play&id=096b817fcc836535f608facb15fca6408fae3162
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Cine Español (FHD)", Movistar Cine Español (FHD)
+plugin://script.module.horus?action=play&id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Indie (FHD)",Movistar Indie (FHD)
+plugin://script.module.horus?action=play&id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Acción (FHD)",Movistar Acción (FHD)
+plugin://script.module.horus?action=play&id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Comedia (FHD)",Movistar Comedia (FHD)
+plugin://script.module.horus?action=play&id=cf0cb321eed6765c2eadbd9983570f6674ce5df6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Drama (FHD)",Movistar Drama (FHD)
+plugin://script.module.horus?action=play&id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Hits (FHD)",Movistar Hits (FHD)
+plugin://script.module.horus?action=play&id=50553edb5e8c54d15e0d43161369b3b4cef95065
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png" group-title="Xtras" tvg-id="Movistar Clásicos (FHD)",Movistar Clásicos (FHD)
+plugin://script.module.horus?action=play&id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
