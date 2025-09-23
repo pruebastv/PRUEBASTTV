@@ -767,10 +767,10 @@ plugin://script.module.horus?action=play&id=b3fc9b5647c5933b101c0b6b64322590c685
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+originales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Originales (FHD)", Movistar Originales (FHD)
 plugin://script.module.horus?action=play&id=096b817fcc836535f608facb15fca6408fae3162
 
-#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Ziggo sport 1", Ziggo sport 1
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 1", Ziggo sport 1
 plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
 
-#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Ziggo sport 2", Ziggo sport 2
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports2.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 2", Ziggo sport 2
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="Xtras" tvg-id="Dazn 1 (BE)", Dazn 1 (BE)
@@ -785,5 +785,5 @@ plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn4.png?raw=true" group-title="Xtras" tvg-id="Dazn 4 (BE)", Dazn 4 (BE)
 plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
 
-#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Dazn 5 (BE)", Dazn 5 (BE)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn5.png?raw=true" group-title="Xtras" tvg-id="Dazn 5 (BE)", Dazn 5 (BE)
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
