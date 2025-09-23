@@ -764,14 +764,29 @@ plugin://script.module.horus?action=play&id=50553edb5e8c54d15e0d43161369b3b4cef9
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+documentales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Documentales (FHD)", Movistar Documentales (FHD)
 plugin://script.module.horus?action=play&id=b3fc9b5647c5933b101c0b6b64322590c68587b9
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+originales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Originales (FHD)", Movistar Originales (FHD)
+#EXTINF:-1 tvg-logo="22" group-title="Canales M+" tvg-id="Movistar Originales (FHD)", Movistar Originales (FHD)
 plugin://script.module.horus?action=play&id=096b817fcc836535f608facb15fca6408fae3162
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png" group-title="Canales M+" tvg-id="Ziggo sport 1", Ziggo sport 1
+#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Ziggo sport 1", Ziggo sport 1
 plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports2.png" group-title="Canales M+" tvg-id="Ziggo sport 2", Ziggo sport 2
+#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Ziggo sport 2", Ziggo sport 2
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png" group-title="Canales M+" tvg-id="Dazn 1 PW", Dazn 1 PW
-plugin://script.module.horus?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="Xtras" tvg-id="Dazn 1 (BE)", Dazn 1 (BE)
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="Xtras" tvg-id="Dazn 2 (BE)", Dazn 2 (BE)
+plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="Xtras" tvg-id="Dazn 3 (BE)", Dazn 3 (BE)
+plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn4.png?raw=true" group-title="Xtras" tvg-id="Dazn 4 (BE)", Dazn 4 (BE)
+plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
+
+#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Dazn 5 (BE)", Dazn 5 (BE)
+plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
+#EXTINF:-1 tvg-logo="22" group-title="Xtras" tvg-id="Dazn 6 (BE)", Dazn 6 (BE)
+plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
