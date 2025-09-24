@@ -686,16 +686,16 @@ plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (BE)", ESPN 2 (BE)
 plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1-copia.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports2-copia.png?raw=true" group-title="Xtras" tvg-id="TNT Sport2 (UK)", TNT Sport2 (UK)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports2.png?raw=true" group-title="Xtras" tvg-id="TNT Sport2 (UK)", TNT Sport2 (UK)
 plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports3-copia.png?raw=true" group-title="Xtras" tvg-id="TNT Sport3 (UK)", TNT Sport3 (UK)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports3.png?raw=true" group-title="Xtras" tvg-id="TNT Sport3 (UK)", TNT Sport3 (UK)
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports4-copia.png?raw=true" group-title="Xtras" tvg-id="TNT Sport4 (UK)", TNT Sport4 (UK)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports4.png?raw=true" group-title="Xtras" tvg-id="TNT Sport4 (UK)", TNT Sport4 (UK)
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-football.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Football (UK))", Sky Sport Football (UK)
