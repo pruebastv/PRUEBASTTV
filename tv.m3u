@@ -787,3 +787,9 @@ plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn5.png?raw=true" group-title="Xtras" tvg-id="Dazn 5 (BE)", Dazn 5 (BE)
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
+#EXTINF:-1 tvg-logo="https://onetoro.tv/assets/icon/Logotipo.svg" group-title="Xtras" tvg-id="OneToro", OneToro
+plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" group-title="Xtras" tvg-id="RALLY TV (MULTIAUDIO)", RALLY TV (MULTIAUDIO)
+plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
