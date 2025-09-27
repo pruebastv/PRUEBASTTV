@@ -689,8 +689,8 @@ plugin://script.module.horus?action=play&id=fd53cfa7055fe458d4f5c0ff59a06cd43723
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
 plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (BE)", ESPN 2 (BE)
-plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (US)", ESPN 2 (US)
+plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -807,10 +807,10 @@ plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849
 plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sportshd.png?raw=true" group-title="Xtras" tvg-id="TNT SPORTS HD", TNT SPORTS HD
-plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
+plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass", UFC Fight Pass
-plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
+plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canalcocina.png?raw=true" group-title="Xtras" tvg-id="Canal Cocina", Canal Cocina
 plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
@@ -819,7 +819,7 @@ plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed
 plugin://script.module.horus?action=play&id=670519ffe8db1e20d0c753d4f756c009e71173d8
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Bundesliga HD ", Sky Bundesliga HD 
-plugin://script.module.horus?action=play&id=670519ffe8db1e20d0c753d4f756c009e71173d8
+plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
