@@ -851,26 +851,29 @@ plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb2
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/toro-oletv.png?raw=true" group-title="Xtras" tvg-id="Torole TV FHD", Torole TV FHD
 plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="RALLY TV (Eventos)", RALLY TV (Eventos)
-plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports (PL)", Extreme Sports (PL)
 plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass", UFC Fight Pass
-plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canalcocina.png?raw=true" group-title="Xtras" tvg-id="Canal Cocina FHD", Canal Cocina FHD
-plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/discovery-channel.png?raw=true" group-title="Xtras" tvg-id="Discovery Channel HD ", Discovery Channel HD 
 plugin://script.module.horus?action=play&id=670519ffe8db1e20d0c753d4f756c009e71173d8
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/syfy.png?raw=true" group-title="Xtras" tvg-id="Syfy FHD", Syfy FHD
+plugin://script.module.horus?action=play&id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/syfy2.png?raw=true" group-title="Xtras" tvg-id="Syfy FHD 2", Syfy FHD 2
+plugin://script.module.horus?action=play&id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/amc.png?raw=true" group-title="Xtras" tvg-id="Amc HD", Amc HD
+plugin://script.module.horus?action=play&id=55ff9ee631af351f365f51cf3601695bf1fd20f3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/xtrm.png?raw=true" group-title="Xtras" tvg-id="Xtrm FHD", Xtrm FHD
+plugin://script.module.horus?action=play&id=d7d3830018cfd93c7430c19ba703a053680476a0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canalcocina.png?raw=true" group-title="Xtras" tvg-id="Canal Cocina FHD", Canal Cocina FHD
+plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel FHD", Tennis Channel FHD
-plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
