@@ -563,7 +563,7 @@ plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
 plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="Xtras" tvg-id="1a 1ª Federación FHD", 1a 1ª Federación FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="LigaHypermotion" tvg-id="1a Federación FHD", 1a Federación FHD
 plugin://script.module.horus?action=play&id=b40212c43e96e97542ea00f2129212a054853a57
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
@@ -851,7 +851,7 @@ plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb2
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/toro-oletv.png?raw=true" group-title="Xtras" tvg-id="Torole TV FHD", Torole TV FHD
 plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="RALLY TV (MULTIAUDIO)", RALLY TV (MULTIAUDIO)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="RALLY TV (Eventos)", RALLY TV (Eventos)
 plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports (PL)", Extreme Sports (PL)
