@@ -563,6 +563,9 @@ plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
 plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="Xtras" tvg-id="1a Federación FHD", 1a Federación FHD
+plugin://script.module.horus?action=play&id=b40212c43e96e97542ea00f2129212a054853a57
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
 plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 
@@ -589,6 +592,9 @@ plugin://script.module.horus?action=play&id=73d38feaa770d788848ec098470e32670fe5
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
 plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5 
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="Xtras" tvg-id="M+ Golf FHD", M+ Golf FHD 
+plugin://script.module.horus?action=play&id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
@@ -840,7 +846,7 @@ plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro
-plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b41079
+plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/toro-oletv.png?raw=true" group-title="Xtras" tvg-id="Torole TV FHD", Torole TV FHD
 plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
@@ -851,9 +857,6 @@ plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e75
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports (PL)", Extreme Sports (PL)
 plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sportshd.png?raw=true" group-title="Xtras" tvg-id="TNT SPORTS HD", TNT SPORTS HD
-plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass", UFC Fight Pass
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 
@@ -862,9 +865,6 @@ plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/discovery-channel.png?raw=true" group-title="Xtras" tvg-id="Discovery Channel HD ", Discovery Channel HD 
 plugin://script.module.horus?action=play&id=670519ffe8db1e20d0c753d4f756c009e71173d8
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Bundesliga HD ", Sky Bundesliga HD 
-plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
