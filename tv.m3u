@@ -873,7 +873,7 @@ plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
-plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
 plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
