@@ -489,7 +489,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Contenido Funcional", Contenido Funcional
-plugin://script.module.horus?action=play&id=
+plugin://
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="El Motor se hizo de pago", El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
 plugin://
