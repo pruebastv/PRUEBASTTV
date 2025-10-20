@@ -496,7 +496,9 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" tvg-id="Motor", Contenido Funcional
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" tvg-id="Motor", El Motor se hizo de pago
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" tvg-id="Motor", Actualiza el motor por 10€
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
 
