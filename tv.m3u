@@ -494,7 +494,7 @@ plugin://
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="El Motor se hizo de pago", El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
 plugin://
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Soluciones", Soluciones: Actualizar el motor por 10€, Instalar una version free compatible, pagar el Premium a ellos o seguir asi hasta que lo cesen puede aumentar el coste inicial.
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Soluciones", Soluciones: Actualizar el motor por 10€, pagar el Premium a ellos, Instalar una version free compatible o seguir asi hasta que lo cesen puede aumentar el coste inicial.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
