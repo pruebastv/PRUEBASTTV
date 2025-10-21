@@ -488,10 +488,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Información", El Contenido Funciona, El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
-plugin://
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="El Motor se hizo de pago", El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
+
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Información", El Contenido Funciona, El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Soluciones", Soluciones: Llama o escríbeme para Actualizar el motor por 10€, paga el Premium a ellos o sigue asi hasta que lo cesen eso puede aumentar el coste inicial.
