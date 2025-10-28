@@ -530,6 +530,9 @@ plugin://script.module.horus?action=play&id=911ad127726234b97658498a8b790fdd7516
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 3 FHD", M+ LALIGA TV 3 FHD
 plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 4 FHD", M+ LALIGA TV 4 FHD
+plugin://script.module.horus?action=play&id=22178d72e0f255dedd7e56f9474fea879289a6f1
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
@@ -577,9 +580,6 @@ plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
 plugin://script.module.horus?action=play&id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
-plugin://script.module.horus?action=play&id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
 plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
