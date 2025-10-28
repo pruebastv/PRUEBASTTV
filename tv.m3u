@@ -498,49 +498,49 @@ plugin://
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
-plugin://  script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
+plugin://script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
-plugin://  script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
+plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
-plugin://  script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
+plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
-plugin://  script.module.horus?action=play&id=107c3ce5a5d2527c9f06e4eab87477201791f231
+plugin://script.module.horus?action=play&id=107c3ce5a5d2527c9f06e4eab87477201791f231
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 5", M+ LALIGA TV FHD 5
-plugin://  script.module.horus?action=play&id=d2ddf9802ccfdc456f872eea4d24596880a638a0
+plugin://script.module.horus?action=play&id=d2ddf9802ccfdc456f872eea4d24596880a638a0
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 6", M+ LALIGA TV FHD 6
-plugin://  script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 7", M+ LALIGA TV FHD 7
-plugin://  script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD
-plugin://  script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
-plugin://  script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
+plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD 2", M+ LALIGA TV 2 FHD 2
-plugin://  script.module.horus?action=play&id=911ad127726234b97658498a8b790fdd7516541d
+plugin://script.module.horus?action=play&id=911ad127726234b97658498a8b790fdd7516541d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 3 FHD", M+ LALIGA TV 3 FHD
-plugin://  script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
+plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
-plugin://  script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 2", DAZN LaLiga FHD 2
-plugin://  script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
-plugin://  script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 4", DAZN LaLiga FHD 4
-plugin://  script.module.horus?action=play&id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+plugin://script.module.horus?action=play&id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD 5
 plugin://  script.module.horus?action=play&id=99171f30c83bf7ab5df28b39607c91334cc60e4b
@@ -684,7 +684,7 @@ plugin://  script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a
 plugin://  script.module.horus?action=play&id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="DAZN" tvg-id="DAZN 3 FHD", DAZN 3 FHD
-plugin://  script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="DAZN" tvg-id="DAZN 3 FHD 2", DAZN 3 FHD 2
 plugin://script.module.horus?action=play&id=8a86cd6152154a25ad4b76523160552a40313b28
