@@ -501,7 +501,7 @@ plugin://
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
-plugin://  script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
+plugin://script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
 plugin://  script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
@@ -534,13 +534,13 @@ plugin://  script.module.horus?action=play&id=911ad127726234b97658498a8b790fdd75
 plugin://  script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
-plugin://  script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 2", DAZN LaLiga FHD 2
-plugin://  script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
-plugin://  script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 4", DAZN LaLiga FHD 4
 plugin://  script.module.horus?action=play&id=74defb8f4ed3a917fd07c21b34f43c17107ec618
