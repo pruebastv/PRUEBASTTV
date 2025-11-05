@@ -845,7 +845,7 @@ plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn5.png?raw=true" group-title="Xtras" tvg-id="Dazn 5 (BE)", Dazn 5 (BE)
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro (Eventos)", OneToro (Eventos)
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/toro-oletv.png?raw=true" group-title="Xtras" tvg-id="Torole TV FHD", Torole TV FHD
@@ -860,7 +860,7 @@ plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
 plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass (Eventos)", UFC Fight Pass (Eventos)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass", UFC Fight Pass
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/discovery-channel.png?raw=true" group-title="Xtras" tvg-id="Discovery Channel HD ", Discovery Channel HD 
