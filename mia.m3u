@@ -743,6 +743,12 @@ plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
 plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork2.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
+plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork3.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
+plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
