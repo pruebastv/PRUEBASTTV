@@ -929,14 +929,14 @@ plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Premium", Fox Premium
 plugin://script.module.horus?action=play&id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
 plugin://script.module.horus?action=play&id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (US)", Fox Sports (US)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (US)", Fox Sports (US)
 plugin://script.module.horus?action=play&id=c9c062941fbecb16ce29437f346ea7177d720898
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (US)", Fox Sports 2 (US)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (US)", Fox Sports 2 (US)
 plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (ARG)", Fox Sports 2 (ARG)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (ARG)", Fox Sports 2 (ARG)
 plugin://script.module.horus?action=play&id=0b48cd93de3c714e36961a93805798307a5608ac
