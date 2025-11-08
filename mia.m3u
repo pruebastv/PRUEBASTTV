@@ -907,3 +907,24 @@ plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 2", Dazn PPV ACB 2
 plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 2", Dazn PPV ACB 2
+plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+
+648b6c7d1b1800b6d224f22e26694f4d59ad217dcom/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)
+plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (BE)", ESPN (BE)
+plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (BE)", ESPN 2 (BE)
+plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (MX)", ESPN (MX)
+plugin://script.module.horus?action=play&id=648b6c7d1b1800b6d224f22e26694f4d59ad217d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN 3 (MX)", ESPN 3 (MX)
+plugin://script.module.horus?action=play&id=fbc9b6650b886ba0b25c0b9468b625aa6d4a2042
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN 4 (MX)", ESPN 4 (MX)
+plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a59f0
