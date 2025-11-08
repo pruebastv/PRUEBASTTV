@@ -901,3 +901,9 @@ plugin://script.module.horus?action=play&id=eb25ebc41fc51710b098f860b33b3229d119
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="Fight Boxing", Fight Boxing
 plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV", Dazn PPV ACB
+plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085adb7
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 2", Dazn PPV ACB 2
+plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d242a
