@@ -582,7 +582,7 @@ plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424
 plugin://script.module.horus?action=play&id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
-plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+plugin://script.module.horus?action=play&id=f34bdd0a6d0d7ca52a604a32c931e0571c3aff1e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
 plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
@@ -740,8 +740,8 @@ plugin://script.module.horus?action=play&id=4bf4431b4815f07c1b3749f5a10f905ba566
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (US)", ESPN 2 (US)
 plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn-deportes.png?raw=true" group-title="Xtras" tvg-id="ESPN Deportes (ARG)", ESPN Deportes (ARG)
-plugin://script.module.horus?action=play&id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
+plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
