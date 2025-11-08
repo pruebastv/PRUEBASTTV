@@ -899,7 +899,7 @@ plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="Fight Boxing", Fight Boxing
 plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV", Dazn PPV ACB
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV", Dazn PPV ACB
 plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085adb7
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 2", Dazn PPV ACB 2
@@ -925,3 +925,7 @@ plugin://script.module.horus?action=play&id=fbc9b6650b886ba0b25c0b9468b625aa6d4a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN 4 (MX)", ESPN 4 (MX)
 plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a59f0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Premium", Fox Premium
+plugin://script.module.horus?action=play&id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
+
