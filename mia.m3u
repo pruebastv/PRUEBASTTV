@@ -896,13 +896,7 @@ plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN Eventos 3", DAZN Eventos 3
 plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300447d
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="Fight Boxing", Fight Boxing
-plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="FightBox HD", FightBox HD
-plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="FightBox", FightBox
 plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV", Dazn PPV ACB
