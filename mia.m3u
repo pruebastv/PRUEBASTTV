@@ -908,6 +908,12 @@ plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)
 plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn3.png?raw=true" group-title="Xtras" tvg-id="ESPN 3 (ARG)", ESPN 3 (ARG)
+plugin://script.module.horus?action=play&id=d872a44653bf2ad232d5f8476597754b69e3d56c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn4.png?raw=true" group-title="Xtras" tvg-id="ESPN 4 (ARG)", ESPN 4 (ARG)
+plugin://script.module.horus?action=play&id=216d20acdaf01a196eda71c81a7a7d5bcbe5ed58
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (BE)", ESPN (BE)
 plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 
