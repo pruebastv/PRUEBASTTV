@@ -905,6 +905,9 @@ plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 2", Dazn PPV ACB 2
 plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 3", Dazn PPV ACB 3
+plugin://script.module.horus?action=play&id=fe28a08985bb5410ee6da29eb728651f2e83db75
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)
 plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 
