@@ -908,6 +908,15 @@ plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 3", Dazn PPV ACB 3
 plugin://script.module.horus?action=play&id=fe28a08985bb5410ee6da29eb728651f2e83db75
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes3.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3 HD
+plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes4.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 4 HD", M+ Deportes 4 HD
+plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes5.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
+plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)
 plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 
@@ -937,6 +946,12 @@ plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG)
 plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports.png?raw=true" group-title="Xtras" tvg-id="Sky Sports (DE)", Sky Sports (DE)
+plugin://script.module.horus?action=play&id=7c12288663069a12aff58f3f62e8ea47ab78c65d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Bundesliga (DE)", Sky Bundesliga (DE)
+plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Premium (MX)", Fox Premium (MX)
 plugin://script.module.horus?action=play&id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
