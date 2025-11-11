@@ -968,5 +968,5 @@ plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (ARG)", Fox Sports 2 (ARG)
 plugin://script.module.horus?action=play&id=0b48cd93de3c714e36961a93805798307a5608ac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/UEFA_Women%27s_Champions_League_logo.svg" group-title="Xtras" tvg-id="Champions Femenina", Champions Femenina
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/49b139aa-2162-4e59-beda-3de7cc846b63_1000085913.jpeg" group-title="Xtras" tvg-id="Champions Femenina", Champions Femenina
 plugin://script.module.horus?action=play&id=d872a44653bf2ad232d5f8476597754b69e3d56c
