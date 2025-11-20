@@ -495,8 +495,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/champions-femenina.png?raw=true" group-title="Xtras" tvg-id="Champions Femenina", Twente vs Atlético de Madrid 18:45
-plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
+
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
