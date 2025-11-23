@@ -962,6 +962,9 @@ plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (ARG)", Fox Sports 2 (ARG)
 plugin://script.module.horus?action=play&id=0b48cd93de3c714e36961a93805798307a5608ac
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (COL)", Fox Sports 2 (COL)
+plugin://script.module.horus?action=play&id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
 plugin://script.module.horus?action=play&id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 
