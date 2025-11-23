@@ -950,6 +950,9 @@ plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Premium (MX)", Fox Premium (MX)
 plugin://script.module.horus?action=play&id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Premium (COL)", Fox Premium (COL)
+plugin://script.module.horus?action=play&id=90d101676ec61e02e7f77b489f0981e9dd815eda
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
 plugin://script.module.horus?action=play&id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 
