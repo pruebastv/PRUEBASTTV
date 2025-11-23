@@ -579,7 +579,7 @@ plugin://script.module.horus?action=play&id=32fdfde0defda1404537507ce5a4fd686699
 plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424e464
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea0255172eae
+plugin://script.module.horus?action=play&id=70422f58112ed13c91285e15e3c58bbeaf57b93d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
 plugin://script.module.horus?action=play&id=f34bdd0a6d0d7ca52a604a32c931e0571c3aff1e
