@@ -506,5 +506,14 @@ plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
 plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3 HD
+plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 4 HD", M+ Deportes 4 HD
+plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
+plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
+
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Actu" tvg-id="Actu", Contacta al 695 16 91 14 o a quién te puso la muestra gratuita, si quieres seguir disfrutando de ver el contenido o quieres más Canales.
 plugin://
