@@ -979,3 +979,6 @@ plugin://script.module.horus?action=play&id=4e99e755aa32c4bc043a4bb1cd1de35f9bd9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 5", Vamos FHD 5
 plugin://script.module.horus?action=play&id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 HD (PL)", Eleven Sport 1 HD (PL)
+plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
