@@ -497,7 +497,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Información", Prueba Gratuita, Finaliza el 30/11/2025.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Error" group-title="Error" tvg-id="Información", Prueba Gratuita, Finaliza el 30/11/2025.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
