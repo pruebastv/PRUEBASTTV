@@ -1001,5 +1001,5 @@ plugin://script.module.horus?action=play&id=c584dd8c6bb963fa78e6f79d2e3c6a15493f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports11.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (RU)", Setanta Sports (RU)
 plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports1.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports 2 (RU)", Setanta Sports 2 (RU)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports 2 (RU)", Setanta Sports 2 (RU)
 plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
