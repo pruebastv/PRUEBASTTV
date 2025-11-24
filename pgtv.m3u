@@ -518,5 +518,5 @@ plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d54
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Aviso" tvg-id="Actu", Contacta al 695 16 91 14 o a quién te puso la muestra gratuita, si quieres seguir disfrutando de ver el contenido o quieres más Canales.
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv3.png?raw=true" group-title="Aviso" tvg-id="MultisportsTV 3", MultisportsTV 3
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv4.png?raw=true" group-title="Aviso" tvg-id="MultisportsTV 4", MultisportsTV 4
 plugin://
