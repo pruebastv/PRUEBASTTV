@@ -497,7 +497,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Error" group-title="Error" tvg-id="Información", Prueba Gratuita, Finaliza el 30/11/2025.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Aviso" tvg-id="Información", Prueba Gratuita, Finaliza el 30/11/2025.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
@@ -515,8 +515,8 @@ plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee999
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
 plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Error" group-title="Actu" tvg-id="Actu", Contacta al 695 16 91 14 o a quién te puso la muestra gratuita, si quieres seguir disfrutando de ver el contenido o quieres más Canales.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Aviso" tvg-id="Actu", Contacta al 695 16 91 14 o a quién te puso la muestra gratuita, si quieres seguir disfrutando de ver el contenido o quieres más Canales.
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv2.png?raw=true" group-title="Error" group-title="Actu" tvg-id="Actu", Contacta al 695 16 91 14 o a quién te puso la muestra gratuita, si quieres seguir disfrutando de ver el contenido o quieres más Canales.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv2.png?raw=true" group-title="Aviso" tvg-id="Actu2", Contacta al 695 16 91 14 o a quién te puso la muestra gratuita, si quieres seguir disfrutando de ver el contenido o quieres más Canales.
 plugin://
