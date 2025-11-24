@@ -488,13 +488,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Información", El Contenido Funciona, El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Error" group-title="Error" tvg-id="Información", El Contenido Funciona, El Motor se hizo de pago, Salen opciones de pago Premium cada 5min. Dar para atras reconecta ayuda hasta cierto punto.
 plugin://
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Error" tvg-id="Soluciones", Soluciones: Llama o escríbeme para Actualizar el motor por 10€, paga el Premium a ellos o sigue asi hasta que lo cesen eso puede aumentar el coste inicial.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Error" group-title="Error" tvg-id="Soluciones", Soluciones: Llama o escríbeme para Actualizar el motor por 10€, paga el Premium a ellos o sigue asi hasta que lo cesen eso puede aumentar el coste inicial.
 plugin://
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/135-1358116_error-png.png" group-title="Error" group-title="Actu" tvg-id="Actu", Si ves esto, tu versión no es individual aún, pide tu cambio gratis. El cambio del motor sigue siendo 10€. Se van hacer cambios puede que no te funcione correctamente o deje de funcionar el contenido desde el dia 1 de noviembre.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Error" group-title="Actu" tvg-id="Actu", Si ves esto, tu versión no es individual aún, pide tu cambio gratis. El cambio del motor sigue siendo 10€. Se van hacer cambios puede que no te funcione correctamente o deje de funcionar el contenido desde el dia 1 de noviembre.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
