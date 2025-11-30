@@ -738,7 +738,7 @@ plugin://script.module.horus?action=play&id=8272d1ed95cdd8945c248ce488fa26bd435f
 plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 7", DAZN F1 FHD 7
-plugin://script.module.horus?action=play&id=1a63d886860e2b770590dcd64a4dd472eabb841d
+plugin://script.module.horus?action=play&id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 8", DAZN F1 FHD 8
 plugin://script.module.horus?action=play&id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
