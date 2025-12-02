@@ -494,8 +494,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Error" group-title="Actu" tvg-id="Actu", Se actualizaron y añadieron algunos contenidos nuevos a Seguir Disfrutando Felices Fiestas Multisportstv.
+plugin://
 
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv2.png?raw=true" group-title="Error" group-title="Actu" tvg-id="Actu", Se actualizaron y añadieron algunos contenidos nuevos a Seguir Disfrutando Felices Fiestas Multisportstv.
+plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
