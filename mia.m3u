@@ -582,13 +582,13 @@ plugin://script.module.horus?action=play&id=32fdfde0defda1404537507ce5a4fd686699
 plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424e464
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin://script.module.horus?action=play&id=70422f58112ed13c91285e15e3c58bbeaf57b93d
+plugin://script.module.horus?action=play&id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
-plugin://script.module.horus?action=play&id=f34bdd0a6d0d7ca52a604a32c931e0571c3aff1e
+plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
-plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 FHD", M+ Deportes 2 FHD
 plugin://script.module.horus?action=play&id=73d38feaa770d788848ec098470e32670fe55a61
@@ -999,9 +999,6 @@ plugin://script.module.horus?action=play&id=3b2a8b41e7097c16b0468b42d7de0320886f
 plugin://script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1b548
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 4", Vamos FHD 4
-plugin://script.module.horus?action=play&id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 5", Vamos FHD 5
 plugin://script.module.horus?action=play&id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 HD (PL)", Eleven Sport 1 HD (PL)
