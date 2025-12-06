@@ -552,7 +552,7 @@ plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32f
 plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD 5
-plugin://script.module.horus?action=play&id=99171f30c83bf7ab5df28b39607c91334cc60e4b
+plugin://script.module.horus?action=play&id=3b5692a70c0d0d1dd23fed31d7886b4aaa64bdaa
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
 plugin://script.module.horus?action=play&id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
