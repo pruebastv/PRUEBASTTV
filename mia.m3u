@@ -791,6 +791,15 @@ plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-premierleague.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Premier League (UK)", Sky Premier League (UK)
 plugin://script.module.horus?action=play&id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Bundesliga (DE)", Sky Sport Bundesliga (DE)
+plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-f1.png?raw=true" group-title="Xtras" tvg-id="Sky Sport F1 (DE)", Sky Sport F1 (DE)
+plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-cricket.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Cricket1 (UK)", Sky Sport Cricket1 (UK)
+plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports1.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 1 (UK)", Premier Sports 1 (UK)
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
@@ -1012,12 +1021,6 @@ plugin://script.module.horus?action=play&id=c7c81acdd1a03ecc418c94c2f28e2adb0556
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 HD (PL)", Eleven Sport 1 HD (PL)
 plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Bundesliga (DE)", Sky Sport Bundesliga (DE)
-plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-f1.png?raw=true" group-title="Xtras" tvg-id="Sky Sport F1 (DE)", Sky Sport F1 (DE)
-plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="Xtras" tvg-id="Dazn 1 Bar (DE)", Dazn 1 Bar (DE)
 plugin://script.module.horus?action=play&id=897e73c9d578848f596585314ecb9ae067c0e229
