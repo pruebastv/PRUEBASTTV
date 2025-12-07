@@ -933,6 +933,9 @@ plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085
 plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 3", Dazn PPV ACB 3
+plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN PPV 4", Dazn PPV ACB 4
 plugin://script.module.horus?action=play&id=fe28a08985bb5410ee6da29eb728651f2e83db75
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes3.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3 HD
