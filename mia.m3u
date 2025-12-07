@@ -894,7 +894,7 @@ plugin://script.module.horus?action=play&id=cc7b8c39f70aa342248d02c8ab55bafdb411
 plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
-plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
+plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass (Eventos)", UFC Fight Pass (Eventos)
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
