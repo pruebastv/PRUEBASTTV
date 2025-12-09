@@ -797,7 +797,7 @@ plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-cricket.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Cricket (UK)", Sky Sport Cricket (UK)
 plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-premierleague.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Premier League (UK)", Sky Premier League (UK)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-premierleague.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Premier League (UK)", Sky Sport Premier League (UK)
 plugin://script.module.horus?action=play&id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Bundesliga (DE)", Sky Sport Bundesliga (DE)
