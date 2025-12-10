@@ -1054,3 +1054,6 @@ plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abe
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports2.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports 2 (RU)", Setanta Sports 2 (RU)
 plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:National_Hockey_League_shield.svg" group-title="Xtras" tvg-id="NHL", NHL
+plugin://script.module.horus?action=play&id=14fd4b839fcde795757b79efde9807ccb7adde7a
