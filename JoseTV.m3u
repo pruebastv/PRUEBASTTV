@@ -728,6 +728,12 @@ plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c392
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports2.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 2 (UK)", Premier Sports 2 (UK)
 plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (RU)2", Setanta Sports (RU)2
+plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports2.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports 2 (RU)2", Setanta Sports 2 (RU)2
+plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/beinsports1.png?raw=true" group-title="Xtras" tvg-id="Bein SPORTS 1 (BE)", Bein SPORTS 1 (BE)
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
