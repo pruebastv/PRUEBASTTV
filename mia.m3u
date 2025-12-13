@@ -614,11 +614,11 @@ plugin://script.module.horus?action=play&id=37d6f1aabcde81ee6e4873b4db6b7bb8964a
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD
 plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Liga ACB 2 FHD
-plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
 plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Liga ACB 2 FHD
+plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
@@ -1045,9 +1045,6 @@ plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f98
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD 2", Gol FHD 2
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports-premium.png?raw=true" group-title="Xtras" tvg-id="Fox Premium (COL)", Fox Premium (COL)
-plugin://script.module.horus?action=play&id=90d101676ec61e02e7f77b489f0981e9dd815eda
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
 plugin://script.module.horus?action=play&id=a0464d3642e054f6122e7c309017d1e8d23f4da9
