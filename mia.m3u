@@ -611,6 +611,12 @@ plugin://script.module.horus?action=play&id=ef2abf419586d9876370be127ad592dbb41b
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
 plugin://script.module.horus?action=play&id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD
+plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
+plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
@@ -812,12 +818,6 @@ plugin://script.module.horus?action=play&id=14fd4b839fcde795757b79efde9807ccb7ad
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nba-tv.png?raw=true" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
 plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD
-plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
-plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass (Eventos)", UFC Fight Pass (Eventos)
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 
@@ -977,6 +977,9 @@ plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN Eventos 3", DAZN Eventos 3
 plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300447d
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Replay ACB (RU)", Replay ACB (RU)
+plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+estrenos.png?raw=true" group-title="Canales M+" tvg-id="Movistar Estrenos (FHD)", Movistar Estrenos (FHD)
 plugin://script.module.horus?action=play&id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 
@@ -1033,9 +1036,6 @@ plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f45
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nba-tv.png?raw=true" group-title="Xtras" tvg-id="NBA TV (US) 2", NBA TV (US) 2
 plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Replay ACB (RU)", Replay ACB (RU)
-plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
 plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
