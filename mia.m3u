@@ -614,9 +614,6 @@ plugin://script.module.horus?action=play&id=37d6f1aabcde81ee6e4873b4db6b7bb8964a
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD
 plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
-plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Liga ACB 2 FHD
 plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
 
@@ -1039,6 +1036,9 @@ plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f45
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nba-tv.png?raw=true" group-title="Xtras" tvg-id="NBA TV (US) 2", NBA TV (US) 2
 plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
+plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
 plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
