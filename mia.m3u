@@ -620,6 +620,9 @@ plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Liga ACB 2 FHD
 plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 3 FHD", Liga ACB 3 FHD
+plugin://script.module.horus?action=play&id=f4db7197aa4b9487014ba348fca3f78121ac2cae
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
