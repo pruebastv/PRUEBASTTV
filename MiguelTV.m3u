@@ -494,7 +494,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/copadelrey.png?raw=true" group-title="Aviso" tvg-id="Información", La Copa desde las 19:00 a 23:00 en M+ LALIGA hasta M+ LALIGA 4.
+plugin://
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
