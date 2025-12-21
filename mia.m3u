@@ -576,7 +576,7 @@ plugin://script.module.horus?action=play&id=b40212c43e96e97542ea00f2129212a05485
 plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin://script.module.horus?action=play&id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+plugin://script.module.horus?action=play&id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
 plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
@@ -1063,12 +1063,3 @@ plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 4", Movistar+ FHD 4
 plugin://script.module.horus?action=play&id=32fdfde0defda1404537507ce5a4fd686699dec6
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
-plugin://script.module.horus?action=play&id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 3", Vamos FHD 3
-plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea0255172eae
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 4", Vamos FHD 4
-plugin://script.module.horus?action=play&id=9b84af74b2fa3690c519199326fc2f181b025cdd
