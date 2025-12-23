@@ -1091,5 +1091,5 @@ plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1.png?raw=true" group-title="Xtras" tvg-id="Sport 1 (DE)", Sport 1 (DE)
 plugin://script.module.horus?action=play&id=1950633a3723cb52b17c764125decc04445bd5ff
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1+.png?raw=true" group-title="Xtras" tvg-id="Sport 1+ (DE)", Sport 1+ (DE)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1+.png?raw=true" group-title="Xtras" tvg-id="Sport Digital 1+ (DE)", Sport Digital 1+ (DE)
 plugin://script.module.horus?action=play&id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
