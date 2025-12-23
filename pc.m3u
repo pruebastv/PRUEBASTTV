@@ -1,0 +1,777 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pruebastv/PRUEBASTTV/refs/heads/main/tv.m3u"
+# Prueba codigo auto Actualizale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Pegar Codigo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Fin Aprox del Codigo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
+plugin://script.module.horus?action=play&id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
+plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
+plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
+plugin://script.module.horus?action=play&id=107c3ce5a5d2527c9f06e4eab87477201791f231
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 5", M+ LALIGA TV FHD 5
+plugin://script.module.horus?action=play&id=8c30b600cc48899991b452805df48b68d998e61c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 6", M+ LALIGA TV FHD 6
+plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 7", M+ LALIGA TV FHD 7
+plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 8", M+ LALIGA TV FHD 8
+plugin://script.module.horus?action=play&id=770efcdf77cf7c6abc42fb1c818df4978658ea32
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD
+plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HDR", M+ LALIGA TV HDR
+plugin://script.module.horus?action=play&id=50688f9c86814623cb1d23490d706f099d7882c2
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
+plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD 2", M+ LALIGA TV 2 FHD 2
+plugin://script.module.horus?action=play&id=911ad127726234b97658498a8b790fdd7516541d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 3 FHD", M+ LALIGA TV 3 FHD
+plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga4.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 4 FHD", M+ LALIGA TV 4 FHD
+plugin://script.module.horus?action=play&id=22178d72e0f255dedd7e56f9474fea879289a6f1
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
+plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 2", DAZN LaLiga FHD 2
+plugin://script.module.horus?action=play&id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
+plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 4", DAZN LaLiga FHD 4
+plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD 5
+plugin://script.module.horus?action=play&id=99171f30c83bf7ab5df28b39607c91334cc60e4b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
+plugin://script.module.horus?action=play&id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD
+plugin://script.module.horus?action=play&id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD 2", DAZN LaLiga 2 FHD 2
+plugin://script.module.horus?action=play&id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
+plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
+plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="LigaHypermotion" tvg-id="1a Federación FHD", 1a Federación FHD
+plugin://script.module.horus?action=play&id=b40212c43e96e97542ea00f2129212a054853a57
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
+plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
+plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea0255172eae
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
+plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5 
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
+plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
+plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
+plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones FHD 2", Liga de Campeones FHD 2
+plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones FHD 3", Liga de Campeones FHD 3
+plugin://script.module.horus?action=play&id=2b51710cee513e8939785fa3e7980f32d4e0415f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones FHD 4", Liga de Campeones FHD 4
+plugin://script.module.horus?action=play&id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones FHD 5", Liga de Campeones FHD 5
+plugin://script.module.horus?action=play&id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones HD", Liga de Campeones HD
+plugin://script.module.horus?action=play&id=b028202ff335911db3118bceac027df3e8ef6c32
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones 4K", Liga de Campeones 4K
+plugin://script.module.horus?action=play&id=152169ce99e1fd27f2249c18384a121079cdef29
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD", Liga de Campeones 2 FHD
+plugin://script.module.horus?action=play&id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD 2", Liga de Campeones 2 FHD 2
+plugin://script.module.horus?action=play&id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD 3", Liga de Campeones 2 FHD 3
+plugin://script.module.horus?action=play&id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD 4", Liga de Campeones 2 FHD 4
+plugin://script.module.horus?action=play&id=f00b018faa7d17cc2fb27f34f567a69ca0d1081f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones3.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 3 FHD", Liga de Campeones 3 FHD
+plugin://script.module.horus?action=play&id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones3.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 3 FHD 2", Liga de Campeones 3 FHD 2
+plugin://script.module.horus?action=play&id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones4.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 4 FHD", Liga de Campeones 4 FHD
+plugin://script.module.horus?action=play&id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones4.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 4 FHD 2", Liga de Campeones 4 FHD 2
+plugin://script.module.horus?action=play&id=53cd86466d1faed03a607be92af601f7e8da128f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones5.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 5 FHD", Liga de Campeones 5 FHD
+plugin://script.module.horus?action=play&id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones6.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 6 FHD", Liga de Campeones 6 FHD
+plugin://script.module.horus?action=play&id=976983697790ab8a07b764b08843529d38bc6444
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones7.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 7 FHD", Liga de Campeones 7 FHD
+plugin://script.module.horus?action=play&id=83c02982581a536d1321e38a77dc0c520b1cb842
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones8.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 8 FHD", Liga de Campeones 8 FHD
+plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones9.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 9 FHD", Liga de Campeones 9 FHD
+plugin://script.module.horus?action=play&id=80abcb38122c25fefb4dffeb57086998447ff49b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
+plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (ARG)", ESPN (ARG)
+plugin://script.module.horus?action=play&id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (US)", ESPN 2 (US)
+plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)
+plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
+plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nhl.png?raw=true" group-title="Xtras" tvg-id="NHL (US)", NHL (US)
+plugin://script.module.horus?action=play&id=14fd4b839fcde795757b79efde9807ccb7adde7a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nba-tv.png?raw=true" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
+plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass (Eventos)", UFC Fight Pass (Eventos)
+plugin://script.module.horus?action=play&id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
+plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports (PL)", Extreme Sports (PL)
+plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/redbulltv.png?raw=true" group-title="Xtras" tvg-id="RED BULL TV", RED BULL TV
+plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb7095
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportklub.png?raw=true" group-title="Xtras" tvg-id="Sport Klub", Sport Klub
+plugin://script.module.horus?action=play&id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightklub.png?raw=true" group-title="Xtras" tvg-id="Fight Klub", Fight Klub
+plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa1b29
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightbox.png?raw=true" group-title="Xtras" tvg-id="FightBox HD", FightBox HD
+plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG)
+plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
+plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports2.png?raw=true" group-title="Xtras" tvg-id="TNT Sport2 (UK)", TNT Sport2 (UK)
+plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports3.png?raw=true" group-title="Xtras" tvg-id="TNT Sport3 (UK)", TNT Sport3 (UK)
+plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports4.png?raw=true" group-title="Xtras" tvg-id="TNT Sport4 (UK)", TNT Sport4 (UK)
+plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-football.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Football (UK))", Sky Sport Football (UK)
+plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-mainevent.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Main Event (UK)", Sky Sport Main Event (UK)
+plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-cricket.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Cricket (UK)", Sky Sport Cricket (UK)
+plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-premierleague.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Premier League (UK)", Sky Sport Premier League (UK)
+plugin://script.module.horus?action=play&id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-bundesliga.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Bundesliga (DE)", Sky Sport Bundesliga (DE)
+plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-f1.png?raw=true" group-title="Xtras" tvg-id="Sky Sport F1 (DE)", Sky Sport F1 (DE)
+plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
+plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports1.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 1 (UK)", Premier Sports 1 (UK)
+plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports2.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 2 (UK)", Premier Sports 2 (UK)
+plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/beinsports1.png?raw=true" group-title="Xtras" tvg-id="Bein SPORTS 1 (BE)", Bein SPORTS 1 (BE)
+plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/beinsports2.png?raw=true" group-title="Xtras" tvg-id="Bein SPORTS 2 (BE)", Bein SPORTS 2 (BE)
+plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/beinsports3.png?raw=true" group-title="Xtras" tvg-id="Bein SPORTS 3 (BE)", Bein SPORTS 3 (BE)
+plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 (PL)", Eleven Sport 1 (PL)
+plugin://script.module.horus?action=play&id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports2.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 2 (PL)", Eleven Sport 2 (PL)
+plugin://script.module.horus?action=play&id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports3.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 3 (PL)", Eleven Sport 3 (PL)
+plugin://script.module.horus?action=play&id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports4.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 4 (PL)", Eleven Sport 4 (PL)
+plugin://script.module.horus?action=play&id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (RU)", Setanta Sports (RU)
+plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports2.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports 2 (RU)", Setanta Sports 2 (RU)
+plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 1", Ziggo sport 1
+plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports2.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 2", Ziggo sport 2
+plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
