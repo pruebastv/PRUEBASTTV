@@ -1079,14 +1079,14 @@ plugin://script.module.horus?action=play&id=4ce55db7e578ff52a6e526cf610e477464b8
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/polsatsportpremium2.png?raw=true" group-title="Xtras" tvg-id="Polsat Sport Premium 2 (PL)", Polsat Sport Premium 2 (PL)
 plugin://script.module.horus?action=play&id=3147c586346aee00c005d1caa55204d38678c95f
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportdigital.png?raw=true" group-title="Xtras" tvg-id="Sport Digital (DE)", Sport Digital (DE)
-plugin://script.module.horus?action=play&id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportklub.png?raw=true" group-title="Xtras" tvg-id="Sport Klub (PL)", Sport Klub (PL)
 plugin://script.module.horus?action=play&id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightklub.png?raw=true" group-title="Xtras" tvg-id="Fight Klub (PL)", Fight Klub (PL)
 plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa1b29
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportdigital.png?raw=true" group-title="Xtras" tvg-id="Sport Digital (DE)", Sport Digital (DE)
+plugin://script.module.horus?action=play&id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1.png?raw=true" group-title="Xtras" tvg-id="Sport 1 (DE)", Sport 1 (DE)
 plugin://script.module.horus?action=play&id=1950633a3723cb52b17c764125decc04445bd5ff
