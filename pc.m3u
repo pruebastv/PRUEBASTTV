@@ -781,9 +781,3 @@ plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports2.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 2", Ziggo sport 2
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/polsatsport1.png?raw=true" group-title="Xtras" tvg-id="Polsat Sport 1 (PL)", Polsat Sport 1 (PL)
-plugin://script.module.horus?action=play&id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/polsatsport2.png?raw=true" group-title="Xtras" tvg-id="Polsat Sport 2 (PL)", Polsat Sport 2 (PL)
-plugin://script.module.horus?action=play&id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
