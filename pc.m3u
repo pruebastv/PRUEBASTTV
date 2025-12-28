@@ -566,6 +566,9 @@ plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c674770
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
+plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
 plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
@@ -689,6 +692,15 @@ plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightbox.png?raw=true" group-title="Xtras" tvg-id="FightBox HD", FightBox HD
 plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/polsatsportfight.png?raw=true" group-title="Xtras" tvg-id="Polsat Sport Fight (PL)", Polsat Sport Fight (PL)
+plugin://script.module.horus?action=play&id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
+plugin://script.module.horus?action=play&id=a0464d3642e054f6122e7c309017d1e8d23f4da9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (COL)", Fox Sports 2 (COL)
+plugin://script.module.horus?action=play&id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG)
 plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 
@@ -722,6 +734,9 @@ plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-f1.png?raw=true" group-title="Xtras" tvg-id="Sky Sport F1 (DE)", Sky Sport F1 (DE)
 plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Replay ACB (RU)", "Replay" ACB (RU)
+plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 
@@ -745,6 +760,12 @@ plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae132
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/beinsports3.png?raw=true" group-title="Xtras" tvg-id="Bein SPORTS 3 (BE)", Bein SPORTS 3 (BE)
 plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canal+sports.png?raw=true" group-title="Xtras" tvg-id="Canal+ Sport (PL)", Canal+ Sport (PL)
+plugin://script.module.horus?action=play&id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canal+sports2.png?raw=true" group-title="Xtras" tvg-id="Canal+ Sport 2 (PL)", Canal+ Sport 2 (PL)
+plugin://script.module.horus?action=play&id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 (PL)", Eleven Sport 1 (PL)
 plugin://script.module.horus?action=play&id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
