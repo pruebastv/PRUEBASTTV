@@ -494,7 +494,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Real Madrid vs Unicaja 19:00
+plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
