@@ -494,8 +494,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Real Madrid vs Unicaja 19:00
-plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
@@ -803,6 +802,5 @@ plugin://script.module.horus?action=play&id=55ff9ee631af351f365f51cf3601695bf1fd
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/xtrm.png?raw=true" group-title="Xtras" tvg-id="Xtrm FHD", Xtrm FHD
 plugin://script.module.horus?action=play&id=d7d3830018cfd93c7430c19ba703a053680476a0
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canalcocina.png?raw=true" group-title="Xtras" tvg-id="Canal Cocina FHD", Canal Cocina FHD
 plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
