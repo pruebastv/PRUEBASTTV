@@ -893,6 +893,12 @@ plugin://script.module.horus?action=play&id=5e94200ae8b1d95cb559fb150e5993d92e15
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1+.png?raw=true" group-title="Xtras" tvg-id="Sport Digital 1+ (DE)", Sport Digital 1+ (DE)
 plugin://script.module.horus?action=play&id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1.png?raw=true" group-title="Xtras" tvg-id="Sport 1 (DE)", Sport 1 (DE)
+plugin://script.module.horus?action=play&id=1950633a3723cb52b17c764125decc04445bd5ff
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportklub.png?raw=true" group-title="Xtras" tvg-id="Sport Klub (PL)", Sport Klub (PL)
+plugin://script.module.horus?action=play&id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Replay ACB (RU)", "Replay" ACB (RU)
 plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
 
@@ -1081,9 +1087,3 @@ plugin://script.module.horus?action=play&id=32fdfde0defda1404537507ce5a4fd686699
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ 2 FHD", Movistar+ 2 FHD
 plugin://script.module.horus?action=play&id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportklub.png?raw=true" group-title="Xtras" tvg-id="Sport Klub (PL)", Sport Klub (PL)
-plugin://script.module.horus?action=play&id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sport1.png?raw=true" group-title="Xtras" tvg-id="Sport 1 (DE)", Sport 1 (DE)
-plugin://script.module.horus?action=play&id=1950633a3723cb52b17c764125decc04445bd5ff
