@@ -695,9 +695,6 @@ plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightbox.png?raw=true" group-title="Xtras" tvg-id="FightBox HD", FightBox HD
 plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/polsatsportfight.png?raw=true" group-title="Xtras" tvg-id="Polsat Sport Fight (PL)", Polsat Sport Fight (PL)
-plugin://script.module.horus?action=play&id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
 plugin://script.module.horus?action=play&id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 
