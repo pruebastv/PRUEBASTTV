@@ -747,7 +747,13 @@ plugin://script.module.horus?action=play&id=5b776533534b767a84dfda263825ad10f30a
 plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="DAZN" tvg-id="DAZN 2 FHD 2", DAZN 2 FHD 2
-plugin://script.module.horus?action=play&id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35 
+plugin://script.module.horus?action=play&id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="DAZN" tvg-id="DAZN 2 FHD 3", DAZN 2 FHD 3
+plugin://script.module.horus?action=play&id=43004e955731cd3afcc34d24e5178d4b427bff37
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="DAZN" tvg-id="DAZN 2 FHD 4", DAZN 2 FHD 4
+plugin://script.module.horus?action=play&id=fb2dd566824658eeab27aae19a01c09430f1a97d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="DAZN" tvg-id="DAZN 3 FHD", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
