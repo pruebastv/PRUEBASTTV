@@ -791,21 +791,6 @@ plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports2.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 2", Ziggo sport 2
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="Xtras" tvg-id="Dazn 1 (BE)", Dazn 1 (BE)
-plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="Xtras" tvg-id="Dazn 2 (BE)", Dazn 2 (BE)
-plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="Xtras" tvg-id="Dazn 3 (BE)", Dazn 3 (BE)
-plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn4.png?raw=true" group-title="Xtras" tvg-id="Dazn 4 (BE)", Dazn 4 (BE)
-plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn5.png?raw=true" group-title="Xtras" tvg-id="Dazn 5 (BE)", Dazn 5 (BE)
-plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
