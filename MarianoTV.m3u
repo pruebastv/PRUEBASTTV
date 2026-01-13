@@ -494,8 +494,12 @@
 
 
 
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/copadelrey.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", Copa del Rey 21:00, Cultural Leones vs Athletic Club la Liga 3, Real Sociedad vs Osasuna la liga 2, Deportivo de la Coruña vs Atlético de Madrid la Liga y en más seguramente en otros idiomas en xtras
 plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
+plugin://script.module.horus?action=play&id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
 plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
