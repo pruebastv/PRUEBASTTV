@@ -638,8 +638,62 @@ plugin://script.module.horus?action=play&id=83c02982581a536d1321e38a77dc0c520b1c
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones8.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 8 FHD", Liga de Campeones 8 FHD
 plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones9.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 9 FHD", Liga de Campeones 9 FHD
-plugin://script.module.horus?action=play&id=80abcb38122c25fefb4dffeb57086998447ff49b
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
+plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (ARG)", ESPN (ARG)
+plugin://script.module.horus?action=play&id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (US)", ESPN 2 (US)
+plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)
+plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
+plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nhl.png?raw=true" group-title="Xtras" tvg-id="NHL (US)", NHL (US)
+plugin://script.module.horus?action=play&id=14fd4b839fcde795757b79efde9807ccb7adde7a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nba-tv.png?raw=true" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
+plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass (Eventos)", UFC Fight Pass (Eventos)
+plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
+plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports (PL)", Extreme Sports (PL)
+plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/redbulltv.png?raw=true" group-title="Xtras" tvg-id="RED BULL TV", RED BULL TV
+plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb7095
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightbox.png?raw=true" group-title="Xtras" tvg-id="FightBox HD", FightBox HD
+plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports.png?raw=true" group-title="Xtras" tvg-id="Fox Sports (MX)", Fox Sports (MX)
+plugin://script.module.horus?action=play&id=a0464d3642e054f6122e7c309017d1e8d23f4da9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (COL)", Fox Sports 2 (COL)
+plugin://script.module.horus?action=play&id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG)
+plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
+plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports2.png?raw=true" group-title="Xtras" tvg-id="TNT Sport2 (UK)", TNT Sport2 (UK)
+plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports3.png?raw=true" group-title="Xtras" tvg-id="TNT Sport3 (UK)", TNT Sport3 (UK)
+plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports4.png?raw=true" group-title="Xtras" tvg-id="TNT Sport4 (UK)", TNT Sport4 (UK)
+plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-football.png?raw=true" group-title="Xtras" tvg-id="Sky Sport Football (UK))", Sky Sport Football (UK)
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
@@ -659,32 +713,14 @@ plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Replay ACB (RU)", "Replay" ACB (RU)
 plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
-plugin://script.module.horus?action=play&id=5a71a114fdf460fc90f88b959f83625b964a5d62
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nhl.png?raw=true" group-title="Xtras" tvg-id="NHL (US)", NHL (US)
-plugin://script.module.horus?action=play&id=14fd4b839fcde795757b79efde9807ccb7adde7a
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nba-tv.png?raw=true" group-title="Xtras" tvg-id="NBA TV (US)", NBA TV (US)
-plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass (Eventos)", UFC Fight Pass (Eventos)
-plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
-plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports", Extreme Sports
-plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/redbulltv.png?raw=true" group-title="Xtras" tvg-id="RED BULL TV (US)", RED BULL TV (US)
-plugin://script.module.horus?action=play&id=a0270364634d9c49279ba61ae3d8467809fb7095
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightklub.png?raw=true" group-title="Xtras" tvg-id="Fight Klub (PL)", Fight Klub (PL)
-plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa1b29
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightbox.png?raw=true" group-title="Xtras" tvg-id="FightBox HD", FightBox HD
-plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
+plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports1.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 1 (UK)", Premier Sports 1 (UK)
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -724,21 +760,6 @@ plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abe
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports2.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports 2 (RU)", Setanta Sports 2 (RU)
 plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG)
-plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
-plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports2.png?raw=true" group-title="Xtras" tvg-id="TNT Sport2 (UK)", TNT Sport2 (UK)
-plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports3.png?raw=true" group-title="Xtras" tvg-id="TNT Sport3 (UK)", TNT Sport3 (UK)
-plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports4.png?raw=true" group-title="Xtras" tvg-id="TNT Sport4 (UK)", TNT Sport4 (UK)
-plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ziggosports.png?raw=true" group-title="Xtras" tvg-id="Ziggo sport 1", Ziggo sport 1
 plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
