@@ -495,8 +495,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/copadelrey.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", Copa del Rey 21:00, Albacete vs Real Madrid la 1, Racing Club vs FC Barcelona m+ y la liga, Burgos vs Valencia la Liga 2 y en más seguramente en otros idiomas en xtras
-plugin://
+
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
