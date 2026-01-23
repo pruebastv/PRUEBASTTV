@@ -612,10 +612,13 @@ plugin://script.module.horus?action=play&id=9ed46050217ee6ed8236a64b72d7992f7b3b
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 2", Eurosport 1 FHD 2
 plugin://script.module.horus?action=play&id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 3", Eurosport 1 FHD 3
+plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD", Eurosport 1 HD
 plugin://script.module.horus?action=play&id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
