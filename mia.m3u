@@ -716,6 +716,9 @@ plugin://script.module.horus?action=play&id=4fc6d0331830ad8743abab2fe2473b63bdfb
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD 4", Liga de Campeones 2 FHD 4
 plugin://script.module.horus?action=play&id=f00b018faa7d17cc2fb27f34f567a69ca0d1081f
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones4.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 4 HD", Liga de Campeones 4 HD
+plugin://script.module.horus?action=play&id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD 5", Liga de Campeones 2 FHD 5
 plugin://script.module.horus?action=play&id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 
