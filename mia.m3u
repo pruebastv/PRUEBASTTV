@@ -636,16 +636,16 @@ plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad1
 plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD
-plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
-plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 3", Liga ACB FHD 3
 plugin://script.module.horus?action=play&id=53962d7fb865aff73b34a3afb2905cd492f60d75
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 4", Liga ACB FHD 4
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
 plugin://script.module.horus?action=play&id=f183cf6c5336e109f0572ffe0b471f0f79d19cf7
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 3", Liga ACB FHD 3
+plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 4", Liga ACB FHD 4
+plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Liga ACB 2 FHD
 plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
