@@ -1132,3 +1132,9 @@ plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 3", Movistar+ FHD 3
 plugin://script.module.horus?action=play&id=32fdfde0defda1404537507ce5a4fd686699dec6
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 4", Movistar+ FHD 4
+plugin://script.module.horus?action=play&id=199190e3f28c1de0be34bccf0d3568dc65209b99
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 5", Movistar+ FHD 5
+plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424e464
