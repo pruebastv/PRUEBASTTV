@@ -493,7 +493,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Promo F1 y MotoGP", MotoGP Comienza el 27 de Febrero y La Fórmula 1 el 8 de Marzo. Activa ya el Pack Motor 20€ o por 10 € de forma individual. Oferta solo para quien Disfruta solo fútbol.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Promo F1 y MotoGP", MotoGP Comienza el 27 de Febrero y La Fórmula 1 el 8 de Marzo. Activa ya el Pack Motor 20€ o por 10 € de forma individual.
 plugin://
 
 
@@ -554,11 +554,7 @@ plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="LigaHypermotion" tvg-id="1a Federación FHD", 1a Federación FHD
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Movistar", Pack Movistar y "Extranjeros" Gratis con el Pack Motor (F1 + MotoGP) o por 10 € de forma individual.
-plugin://
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Canales Extranjeros", Canales "Extranjeros" Gratis con el Pack Motor (F1 + MotoGP) o por 10 € de forma individual.
-plugin://
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Movistar", Pack Movistar Gratis con el Pack Motor (F1 + MotoGP) o por 10 € de forma individual. (Sí algún canal tarde en iniciar o no funciona escribeme y se intenta arreglar)
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
 plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
@@ -668,7 +664,7 @@ plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc2
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn4.png?raw=true" group-title="DAZN" tvg-id="DAZN 4 FHD", DAZN 4 FHD
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Premier y MotoGP", Activa La Fórmula 1 Nueva Temporada por 10 €. Comienza el 8 de Marzo.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Fórmula 1", Activa La Fórmula 1 Nueva Temporada por 10 €. Comienza el 8 de Marzo.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
