@@ -1133,11 +1133,65 @@ plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Repuestos Funcionales"
 plugin://
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
+plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD", Eurosport 1 HD
+plugin://script.module.horus?action=play&id=19ce0a7a8cfa0dbf28dfd90061b1f50a6f307b3c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (DE)", Eurosport 1 HD (DE)
 plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (DE)", Eurosport 1 HD (DE)
+plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (PL)", Eurosport 1 HD (PL)
+plugin://script.module.horus?action=play&id=314eb626864faf52e01624361bd6906b5406127f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+plugin://script.module.horus?action=play&id=2773b39926d15dd3d9495d94c4050604792d7031
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD 2", Eurosport 2 FHD 2
+plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD", Eurosport 2 HD
 plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (DE)", Eurosport 2 HD (DE)
+plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (PL)", Eurosport 2 HD (PL)
+plugin://script.module.horus?action=play&id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (RU)", Eurosport 2 HD (RU)
+plugin://script.module.horus?action=play&id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 1 (DE)", Eurosport360 HD 1 (DE)
+plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 2 (DE)", Eurosport360 HD 2 (DE)
+plugin://script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 3 (DE)", Eurosport360 HD 3 (DE)
+plugin://script.module.horus?action=play&id=7adbca42657ace1fe228142d351d0896974bbe0c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 4 (DE)", Eurosport360 HD 4 (DE)
+plugin://script.module.horus?action=play&id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 5 (DE)", Eurosport360 HD 5 (DE)
+plugin://script.module.horus?action=play&id=148921c4dda96df445e253d6f26c4d092bf85809
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 6 (DE)", Eurosport360 HD 6 (DE)
+plugin://script.module.horus?action=play&id=005ac522315699bd93bbf743329eb2f3c347dc3f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 7 (DE)", Eurosport360 HD 7 (DE)
+plugin://script.module.horus?action=play&id=b18657f64507cc859cd7edef1aef90feb053e791
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 8 (DE)", Eurosport360 HD 8 (DE)
+plugin://script.module.horus?action=play&id=8f4f572005ca2557743474087aa622693ba9b5fe
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 9 (DE)", Eurosport360 HD 9 (DE)
+plugin://script.module.horus?action=play&id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
 plugin://script.module.horus?action=play&id=f183cf6c5336e109f0572ffe0b471f0f79d19cf7
