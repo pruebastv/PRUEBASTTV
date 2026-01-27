@@ -638,7 +638,7 @@ plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones9.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 9 FHD", Liga de Campeones 9 FHD
 plugin://script.module.horus?action=play&id=80abcb38122c25fefb4dffeb57086998447ff49b
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Extranjeros Multideportivos
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales "Extranjeros" Multideportivos
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
