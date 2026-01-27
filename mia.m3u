@@ -905,7 +905,7 @@ plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
 plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/mmatv.png?raw=true" group-title="Xtras" tvg-id="MMA TV (RU)", MMA TV (RU)
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/mmatv.png?raw=true" group-title="Xtras" tvg-id="MMA TV", MMA TV
 plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b1c04
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports", Extreme Sports
@@ -920,7 +920,7 @@ plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightklub.png?raw=true" group-title="Xtras" tvg-id="Fight Klub (PL)", Fight Klub (PL)
 plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa1b29
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tvpsport.png?raw=true" group-title="Xtras" tvg-id="TVP Sport", TVP Sport HD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tvpsport.png?raw=true" group-title="Xtras" tvg-id="TVP Sport (PL)", TVP Sport HD (PL)
 plugin://script.module.horus?action=play&id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/polsatsportfight.png?raw=true" group-title="Xtras" tvg-id="Polsat Sport Fight (PL)", Polsat Sport Fight (PL)
