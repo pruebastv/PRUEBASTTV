@@ -555,7 +555,10 @@ plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
-plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 2", Movistar+ FHD 2
+plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
 plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea0255172eae
@@ -573,10 +576,16 @@ plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f402
 plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (DE)", Eurosport 1 HD (DE)
+plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
 plugin://script.module.horus?action=play&id=2773b39926d15dd3d9495d94c4050604792d7031
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (DE)", Eurosport 2 HD (DE)
+plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
@@ -638,6 +647,15 @@ plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones9.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 9 FHD", Liga de Campeones 9 FHD
 plugin://script.module.horus?action=play&id=80abcb38122c25fefb4dffeb57086998447ff49b
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones10.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 10 FHD", Liga de Campeones 10 FHD
+plugin://script.module.horus?action=play&id=0103373118989085dd0d02667c629ee36d462cb1
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones11.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 11 FHD", Liga de Campeones 11 FHD
+plugin://script.module.horus?action=play&id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones12.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 12 FHD", Liga de Campeones 12 FHD
+plugin://script.module.horus?action=play&id=130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales "Extranjeros" Multideportivos
 plugin://
 
@@ -654,7 +672,7 @@ plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd
 plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nflnetwork.png?raw=true" group-title="Xtras" tvg-id="NFL Network (US)", NFL Network (US)
-plugin://script.module.horus?action=play&id=10e514ecccea1ec53736aae6486c15c1cce9379e
+plugin://script.module.horus?action=play&id=5a71a114fdf460fc90f88b959f83625b964a5d62
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/nhl.png?raw=true" group-title="Xtras" tvg-id="NHL (US)", NHL (US)
 plugin://script.module.horus?action=play&id=14fd4b839fcde795757b79efde9807ccb7adde7a
@@ -667,6 +685,9 @@ plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
 plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/mmatv.png?raw=true" group-title="Xtras" tvg-id="MMA TV", MMA TV (RU)
+plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b1c04
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/extreme-sport.png?raw=true" group-title="Xtras" tvg-id="Extreme Sports (PL)", Extreme Sports (PL)
 plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
