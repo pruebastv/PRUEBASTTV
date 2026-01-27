@@ -638,6 +638,15 @@ plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones9.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 9 FHD", Liga de Campeones 9 FHD
 plugin://script.module.horus?action=play&id=80abcb38122c25fefb4dffeb57086998447ff49b
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones10.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 10 FHD", Liga de Campeones 10 FHD
+plugin://script.module.horus?action=play&id=0103373118989085dd0d02667c629ee36d462cb1
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones11.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 11 FHD", Liga de Campeones 11 FHD
+plugin://script.module.horus?action=play&id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones12.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 12 FHD", Liga de Campeones 12 FHD
+plugin://script.module.horus?action=play&id=130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Premier y MotoGP", Activa La Premier y MotoGP Nueva Temporada por 10 €. Comienza el 27 de Febrero.
 plugin://
 
