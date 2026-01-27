@@ -493,8 +493,8 @@
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Promo F1 y MotoGP", MotoGP Comienza el 27 de Febrero y La Fórmula 1 el 8 de Marzo. Activa ya el Pack Motor 20€ o por 10 € de forma individual. Oferta solo para quien Disfruta solo fútbol.
+plugin://
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
@@ -553,6 +553,12 @@ plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="LigaHypermotion" tvg-id="1a Federación FHD", 1a Federación FHD
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Movistar", Pack Movistar y "Extranjeros" Gratis con el Pack Motor (F1 + MotoGP) o por 10 € de forma individual.
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Canales Extranjeros", Canales "Extranjeros" Gratis con el Pack Motor (F1 + MotoGP) o por 10 € de forma individual.
+plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
 plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
@@ -683,7 +689,7 @@ plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d83681580
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 4K", DAZN F1 4K
 plugin://script.module.horus?action=play&id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales "Extranjeros" Gratis con el Pack Motor (20€) o por 10 € de forma individual.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Canales Extranjeros", Canales "Extranjeros" Gratis con el Pack Motor (F1 + MotoGP) o por 10 € de forma individual.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
