@@ -493,7 +493,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Todos los partidos se juegan a las 21:00 Benfica vs Real Madrid M+ liga de campeones, Atlético de Madrid vs Bodo M+ liga de campeones 3, Athletic Club vs Sporting M+ liga de campeones 4 y en demás Canales por hay el resto...
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Todos los partidos se juegan a las 21:00 Benfica vs Real Madrid M+ liga de campeones, FC Barcelona vs Copenhague M+ liga de campeones 2, Atlético de Madrid vs Bodo M+ liga de campeones 3, Athletic Club vs Sporting M+ liga de campeones 4 y en demás Canales por hay el resto...
 plugin://
 
 
@@ -564,7 +564,7 @@ plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b
 plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea0255172eae
+plugin://script.module.horus?action=play&id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
 plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -579,13 +579,13 @@ plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f402
 plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+plugin://script.module.horus?action=play&id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (DE)", Eurosport 1 HD (DE)
 plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
-plugin://script.module.horus?action=play&id=2773b39926d15dd3d9495d94c4050604792d7031
+plugin://script.module.horus?action=play&id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (DE)", Eurosport 2 HD (DE)
 plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
@@ -639,7 +639,7 @@ plugin://script.module.horus?action=play&id=53cd86466d1faed03a607be92af601f7e8da
 plugin://script.module.horus?action=play&id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones6.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 6 FHD", Liga de Campeones 6 FHD
-plugin://script.module.horus?action=play&id=976983697790ab8a07b764b08843529d38bc6444
+plugin://script.module.horus?action=play&id=bf10192dc72a98ee835a1b7ccac8b27737d02f25
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones7.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 7 FHD", Liga de Campeones 7 FHD
 plugin://script.module.horus?action=play&id=83c02982581a536d1321e38a77dc0c520b1cb842
