@@ -558,9 +558,6 @@ plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
-plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 2", Movistar+ FHD 2
 plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
@@ -579,15 +576,9 @@ plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f402
 plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (DE)", Eurosport 1 HD (DE)
 plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
-plugin://script.module.horus?action=play&id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (DE)", Eurosport 2 HD (DE)
 plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
