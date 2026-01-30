@@ -581,7 +581,7 @@ plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
 plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 360 HD", Eurosport 360 HD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 360 HD", Eurosport 360 HD
 plugin://script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
