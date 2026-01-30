@@ -740,6 +740,9 @@ plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightklub.png?raw=true" group-title="Xtras" tvg-id="Fight Klub (PL)", Fight Klub (PL)
 plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa1b29
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportv.png?raw=true" group-title="Xtras" tvg-id="Sport TV (BE) ", Sport TV (BE)
+plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tvpsport.png?raw=true" group-title="Xtras" tvg-id="TVP Sport (PL)", TVP Sport HD (PL)
 plugin://script.module.horus?action=play&id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
