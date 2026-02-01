@@ -487,14 +487,14 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Premier y MotoGP", Activa La Nueva Temporada de MotoGP por 10 €. Test antes Oficial Comienza el 27 de Febrero.
+plugin://
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Fórmula 1", Activa La Nueva Temporada de Fórmula 1 por 10 €. Comienza el 8 de Marzo.
+plugin://
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Real Madrid vs Basket Zaragoza
-plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor", Activa La Nueva Temporada de MotoGP y F1 por 20 € o 10€ por separado cada una, MotoGP Comienza el 27 de Febrero la Fórmula 1 Comienza el 8 de Marzo Test antes de esas fechas.
+plugin://
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
