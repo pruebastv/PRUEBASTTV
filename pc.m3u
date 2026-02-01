@@ -493,13 +493,7 @@ plugin://
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Fórmula 1", Activa La Nueva Temporada de Fórmula 1 por 10 €. Comienza el 8 de Marzo.
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor", Activa La Nueva Temporada de MotoGP y F1 por 20 € o 10€ por separado cada una, MotoGP Comienza el 27 de Febrero la Fórmula 1 Comienza el 8 de Marzo Test antes de esas fechas.
-plugin://
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor2", Activa La Nueva Temporada de MotoGP y F1 por 20 € o 10€ por separado cada una.
-plugin://
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor3", MotoGP Comienza el 27 de Febrero la Fórmula 1 Comienza el 8 de Marzo Test antes de esas fechas.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor2", Activa La Nueva Temporada de MotoGP y F1 por 20 € o 10€ por separado. MotoGP Comienza el 27 de Febrero la Fórmula 1 Comienza el 8 de Marzo Test antes de esas fechas
 plugin://
 
 
