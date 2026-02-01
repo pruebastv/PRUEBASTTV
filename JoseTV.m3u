@@ -493,8 +493,8 @@
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Real Madrid vs Basket Zaragoza
+plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
@@ -504,19 +504,19 @@ plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d1
 plugin://script.module.horus?action=play&id=af458073c3096293a4dea9f369d4f308e7125bd6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
-plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
 plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
+plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 5", M+ LALIGA TV FHD 5
-plugin://script.module.horus?action=play&id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD
-plugin://script.module.horus?action=play&id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HDR", M+ LALIGA TV HDR
-plugin://script.module.horus?action=play&id=50688f9c86814623cb1d23490d706f099d7882c2
+plugin://script.module.horus?action=play&id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
