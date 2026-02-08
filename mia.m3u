@@ -569,8 +569,11 @@ plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba013
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD 2", DAZN LaLiga 2 FHD 2
 plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
+plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
-plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+plugin://script.module.horus?action=play&id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="LigaHypermotion" tvg-id="1a Federación FHD", 1a Federación FHD
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
@@ -603,10 +606,10 @@ plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d54
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+plugin://script.module.horus?action=play&id=48a589dbeab3544662fafd79888aada7d834cfe9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
-plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+plugin://script.module.horus?action=play&id=f5908690485ae2facecf3074446ba4315f07a193
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" "Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
@@ -955,6 +958,12 @@ plugin://script.module.horus?action=play&id=f40d450991da3daa22b7a5007603a139def6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/syfy.png?raw=true" group-title="Xtras" tvg-id="Syfy FHD", Syfy FHD
 plugin://script.module.horus?action=play&id=46d79efe06df3307fec2ed5e760128619119eb11
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 2", Movistar+ FHD 2
+plugin://script.module.horus?action=play&id=d23497596720b47b096ec0f850d6d26a19d1a336
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ HD", Movistar+ HD
+plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 5/2/26 Probado"
 plugin://
