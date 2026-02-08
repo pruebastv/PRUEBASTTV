@@ -974,6 +974,12 @@ plugin://script.module.horus?action=play&id=d23497596720b47b096ec0f850d6d26a19d1
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ HD", Movistar+ HD
 plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
+plugin://script.module.horus?action=play&id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos HD", Vamos HD
+plugin://script.module.horus?action=play&id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 5/2/26 Probado"
 plugin://
 
