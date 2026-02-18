@@ -539,13 +539,13 @@ plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10
 plugin://script.module.horus?action=play&id=3b5692a70c0d0d1dd23fed31d7886b4aaa64bdaa
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
-plugin://script.module.horus?action=play&id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+plugin://script.module.horus?action=play&id=19f28f60c908f987b1a03da078e63320d7bf29e8
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD
-plugin://script.module.horus?action=play&id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+plugin://script.module.horus?action=play&id=635b61c1f240449163260cd914d10d886a54fee3
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 HD
-plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c8d36
+plugin://script.module.horus?action=play&id=635b61c1f240449163260cd914d10d886a54fee3
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
 plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
