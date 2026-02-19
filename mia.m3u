@@ -609,9 +609,12 @@ plugin://script.module.horus?action=play&id=f5908690485ae2facecf3074446ba4315f07
 plugin://script.module.horus?action=play&id=8faa686a99697b99261346e479ead172b1d9d5d2
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
+plugin://script.module.horus?action=play&id=53962d7fb865aff73b34a3afb2905cd492f60d75
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 2 FHD", Liga ACB 2 FHD
 plugin://script.module.horus?action=play&id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 3", Liga ACB FHD 3
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 3 FHD", Liga ACB 3 FHD
 plugin://script.module.horus?action=play&id=119087e842ea8857124b9405b10bb6cfffd2900c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD", Liga de Campeones 2 FHD
@@ -1084,9 +1087,6 @@ plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (GEO)", Setanta Sports (GEO) No carga
 plugin://script.module.horus?action=play&id=c584dd8c6bb963fa78e6f79d2e3c6a15493f8241
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD No carga
-plugin://script.module.horus?action=play&id=53962d7fb865aff73b34a3afb2905cd492f60d75
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2 No carga
 plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
