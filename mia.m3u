@@ -566,7 +566,7 @@ plugin://script.module.horus?action=play&id=eb4975702ceadca7ed74f8707e17a9f55569
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD
 plugin://script.module.horus?action=play&id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
 plugin://script.module.horus?action=play&id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="LigaHypermotion" tvg-id="1a Federación FHD", 1a Federación FHD
@@ -1028,9 +1028,6 @@ plugin://script.module.horus?action=play&id=9bb2a7dc6c6a296609df8cc50e742a78194f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD 2", M+ Golf HD 2
 plugin://script.module.horus?action=play&id=f60535a458b3c114283e2f433379144345beddd6
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
-plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 5/2/26 Probado"
 plugin://
 
@@ -1189,6 +1186,9 @@ plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD No carga
 plugin://script.module.horus?action=play&id=8ee52f6208e33706171856f99d2ed2dabd317f3a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD No Carga
+plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD No carga
 plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
