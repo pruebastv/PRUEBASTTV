@@ -1043,6 +1043,18 @@ plugin://script.module.horus?action=play&id=9bb2a7dc6c6a296609df8cc50e742a78194f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD 2", M+ Golf HD 2
 plugin://script.module.horus?action=play&id=f60535a458b3c114283e2f433379144345beddd6
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD 3", DAZN MGP FHD 3
+plugin://script.module.horus?action=play&id=342ca6975a4884d81f9fec5c4085a47060bd2028
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD 4", DAZN MGP FHD 4
+plugin://script.module.horus?action=play&id=c53bdb3be55d12c5188d25085f1bb16911c15cea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD", DAZN MGP HD
+plugin://script.module.horus?action=play&id=129c707eb4854171d178a566f36d90b7f2b5e624
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD 2", DAZN MGP HD 2
+plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b9137
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 5/2/26 Probado"
 plugin://
 
