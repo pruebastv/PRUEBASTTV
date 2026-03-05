@@ -863,8 +863,11 @@ plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b407
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
 plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD 2", Tennis Channel HD 2
+plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
-plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
+plugin://script.module.horus?action=play&id=52a526d748e26ff0827635b3932d9f49aee14a25
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports1.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 1 (UK)", Premier Sports 1 (UK)
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -1144,6 +1147,9 @@ plugin://script.module.horus?action=play&id=f4db7197aa4b9487014ba348fca3f78121ac
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 3 HD", Liga ACB 3 HD No Carga
 plugin://script.module.horus?action=play&id=119087e842ea8857124b9405b10bb6cfffd2900c
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD No Carga
+plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos) 2", Rally TV (Eventos) 2 No carga
 plugin://script.module.horus?action=play&id=12404b00d2787995d639ccf71a80da5d39d153f9
