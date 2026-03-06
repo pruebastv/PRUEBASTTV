@@ -626,7 +626,34 @@ plugin://script.module.horus?action=play&id=83c02982581a536d1321e38a77dc0c520b1c
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones8.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 8 FHD", Liga de Campeones 8 FHD
 plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales "Extranjeros" Multideportivos
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", activa la Nueva Temporada de Fórmula 1 y MotoGP ambas por 20€ hasta el domingo 23:59 luego 30€ y disfruta del baloncesto, tennis y demás deportes por.
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD
+plugin:// script.module.horus?action=play&id=5548659c188e1d4d3b6e756e6c56485eb242abac
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD 2", DAZN MGP FHD 2
+plugin:// script.module.horus?action=play&id=ef341794651e00b7fcc5b5da8570ea37418c5406
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD 3", DAZN MGP FHD 3
+plugin:// script.module.horus?action=play&id=ef341794651e00b7fcc5b5da8570ea37418c5406
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD 4", DAZN MGP FHD 4
+plugin:// script.module.horus?action=play&id=ef341794651e00b7fcc5b5da8570ea37418c5406
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
+plugin:// script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 2", DAZN F1 FHD 2
+plugin:// script.module.horus?action=play&id=895d08633bb22c2573281655cf3ca44de476cc73
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 3", DAZN F1 FHD 3
+plugin:// script.module.horus?action=play&id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 4", DAZN F1 FHD 4
+plugin:// script.module.horus?action=play&id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales "Extranjeros" Multideportivos con el pack motor
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN HD (US)", ESPN HD (US)
