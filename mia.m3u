@@ -770,6 +770,9 @@ plugin://script.module.horus?action=play&id=d719181097d256073844390b3e094fbcb1bc
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 7", DAZN F1 FHD 7
 plugin://script.module.horus?action=play&id=27d11bbeb3026231d52de16b1fac48da7a099247
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 8", DAZN F1 FHD 8
+plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 HD
 plugin://script.module.horus?action=play&id=88d7cdd80be237ae21314f7f1b6582991498e8ba
 
@@ -971,7 +974,7 @@ plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bf
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2", Tennis Channel 2
 plugin://script.module.horus?action=play&id=52a526d748e26ff0827635b3932d9f49aee14a25
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Repuestos Funcionales 5/2/26 Probado"
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Repuestos Funcionales 7/3/26 Probado"
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 2", Eurosport 1 FHD 2
@@ -1019,14 +1022,14 @@ plugin://script.module.horus?action=play&id=8f4f572005ca2557743474087aa622693ba9
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport360 HD 9 (DE)", Eurosport360 HD 9 (DE)
 plugin://script.module.horus?action=play&id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass 2 (Eventos)", UFC Fight Pass 2 (Eventos) 
-plugin://script.module.horus?action=play&id=96537527b2d5e858b2e6c863a00dec304254091d
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportklub.png?raw=true" group-title="Xtras" tvg-id="Sport Klub (PL)", Sport Klub (PL)
 plugin://script.module.horus?action=play&id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 HD (PL)", Eleven Sport 1 HD (PL)
 plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass 2 (Eventos)", UFC Fight Pass 2 (Eventos) 
+plugin://script.module.horus?action=play&id=96537527b2d5e858b2e6c863a00dec304254091d
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
@@ -1205,7 +1208,7 @@ plugin://script.module.horus?action=play&id=129c707eb4854171d178a566f36d90b7f2b5
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD 2", DAZN MGP HD 2
 plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b9137
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 5/2/26 Probado"
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 7/3/26 Probado"
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD Se Pilla
@@ -1441,9 +1444,6 @@ plugin://script.module.horus?action=play&id=c8ad94585fbe13cfc9074c2b5e23fb6344e0
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD No carga
 plugin://script.module.horus?action=play&id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 2", DAZN F1 FHD 2 No carga
-plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 3", DAZN F1 FHD 3 Se Pilla
 plugin://script.module.horus?action=play&id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
