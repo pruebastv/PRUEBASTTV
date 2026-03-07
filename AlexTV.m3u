@@ -494,7 +494,7 @@
 plugin://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", Sabado A las 2:30 Libres 3 y Qualy 6:00 Nueva Temporada de Fórmula 1 ya Comenzó MotoGP ambas por 20€ hasta el domingo 23:59 luego 30€ y disfruta del baloncesto, tennis y demás deportes incluidos.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", Domingo desde las 3:00 previo 1ª Carrera F1 en diferido 13:40 MotoGP ya Comenzó ambas por 20€ hasta el domingo 23:59 luego 30€ y disfruta del baloncesto, tennis y demás deportes incluidos.
 plugin://
 
 
@@ -627,7 +627,7 @@ plugin://script.module.horus?action=play&id=83c02982581a536d1321e38a77dc0c520b1c
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones8.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 8 FHD", Liga de Campeones 8 FHD
 plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", activa la Nueva Temporada de Fórmula 1 y MotoGP ambas por 20€ hasta el domingo 23:59 luego 30€ y disfruta del baloncesto, tennis y demás deportes por.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", activa la Nueva Temporada de Fórmula 1 y MotoGP por 20€ hasta el domingo 23:59 luego 30€ y disfruta del baloncesto, tennis y demás deportes.
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD
