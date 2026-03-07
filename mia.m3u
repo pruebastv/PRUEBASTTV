@@ -1050,7 +1050,13 @@ plugin://script.module.horus?action=play&id=f828a32d8ea03a3cabd3ce3ebecb249ec111
 plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes FHD 3", M+ Deportes FHD 3
-plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc5227218184a4
+plugin://script.module.horus?action=play&id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD 2", M+ Deportes HD 2
+plugin://script.module.horus?action=play&id=6e031aed136bf97d8667fcd5fc49c73256928281
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD 3", M+ Deportes HD 3
+plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 FHD", M+ Deportes 2 FHD
 plugin://script.module.horus?action=play&id=3774d8feab016ca766b35ea8488e7514ca30e0ee
