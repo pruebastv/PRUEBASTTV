@@ -489,7 +489,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="Información" tvg-id=Información", Newcastle - Barcelona liga de Campeones y M+, At. Madrid - Tottenham liga de campeones 2, Atalanta - Bayern Múnich liga de Campeones 3, Multichampions liga de campeones 4, más opciones en Canales extranjeros
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="Información" tvg-id=Información", Real Madrid - Manchester City liga de Campeones, PSG - Chelsea liga de campeones 2, Bodo/Glimt - Sporting Portugal liga de Campeones 3, Multichampions liga de campeones 4, más opciones en Canales extranjeros
 plugin://
 
 
