@@ -851,6 +851,9 @@ plugin://script.module.horus?action=play&id=0b48cd93de3c714e36961a93805798307a56
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fox-sports2.png?raw=true" group-title="Xtras" tvg-id="Fox Sports 2 (COL)", Fox Sports 2 (COL)
 plugin://script.module.horus?action=play&id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG)
+plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports1.png?raw=true" group-title="Xtras" tvg-id="TNT Sport1 (UK)", TNT Sport1 (UK)
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
@@ -1030,6 +1033,9 @@ plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f45
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass 2 (Eventos)", UFC Fight Pass 2 (Eventos) 
 plugin://script.module.horus?action=play&id=96537527b2d5e858b2e6c863a00dec304254091d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos) 2", Rally TV (Eventos) 2
+plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
@@ -1249,9 +1255,6 @@ plugin://script.module.horus?action=play&id=216d20acdaf01a196eda71c81a7a7d5bcbe5
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn4.png?raw=true" group-title="Xtras" tvg-id="ESPN 4 (MX)", ESPN 4 (MX) No carga
 plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a59f0
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tnt-sports.png?raw=true" group-title="Xtras" tvg-id="TNT Sports (ARG)", TNT Sports (ARG) No carga
-plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (GEO)", Setanta Sports (GEO) No carga
 plugin://script.module.horus?action=play&id=c584dd8c6bb963fa78e6f79d2e3c6a15493f8241
