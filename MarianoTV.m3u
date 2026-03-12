@@ -489,11 +489,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="Información" tvg-id=Información", Real Madrid - Manchester City liga de Campeones, PSG - Chelsea liga de campeones 2, Bodo/Glimt - Sporting Portugal liga de Campeones 3, Multichampions liga de campeones 4, más opciones en Canales extranjeros
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="Información" tvg-id=Información", 18:45 Panathinaikos vs Real Betis 21:00 Celta de Vigo vs Lyon liga de Campeones, 18:45 y 21:00 Multieuropaleague liga de campeones 3, más opciones en Canales extranjeros
 plugin://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", Jueves libres F1 GP china nueva temporada por 20€ con motogp 30€ y disfruta del baloncesto, tennis y demás deportes.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", 4:30 libres F1 GP china Qualy al Sprint 8:30 nueva temporada f1 y motogp 30€ y disfruta del baloncesto, tennis y demás deportes.
 plugin://
 
 
