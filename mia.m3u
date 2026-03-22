@@ -1202,12 +1202,6 @@ plugin://script.module.horus?action=play&id=8b081c8afbd9beafc8c5fbf0115eb36eadb0
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="Xtras" tvg-id="Dazn 2 Bar (ES)", Dazn 2 Bar (ES)
 plugin://script.module.horus?action=play&id=2f9211669499f413dab1a490198afab2a9b4b57c
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN Eventos 2", DAZN Eventos 2
-plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD solo logo
-plugin://script.module.horus?action=play&id=5548659c188e1d4d3b6e756e6c56485eb242abac
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 7/3/26 Probado"
 plugin://
 
@@ -1232,16 +1226,16 @@ plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (ARG)", ESPN (ARG) No carga
 plugin://script.module.horus?action=play&id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (MX)", ESPN (MX)  No carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn.png?raw=true" group-title="Xtras" tvg-id="ESPN (MX)", ESPN (MX) No carga
 plugin://script.module.horus?action=play&id=648b6c7d1b1800b6d224f22e26694f4d59ad217d
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG)  No carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn2.png?raw=true" group-title="Xtras" tvg-id="ESPN 2 (ARG)", ESPN 2 (ARG) No carga
 plugin://script.module.horus?action=play&id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn3.png?raw=true" group-title="Xtras" tvg-id="ESPN 3 (ARG)", ESPN 3 (ARG)  No carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn3.png?raw=true" group-title="Xtras" tvg-id="ESPN 3 (ARG)", ESPN 3 (ARG) No carga
 plugin://script.module.horus?action=play&id=d872a44653bf2ad232d5f8476597754b69e3d56c
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn3.png?raw=true" group-title="Xtras" tvg-id="ESPN 3 (MX)", ESPN 3 (MX)  No carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn3.png?raw=true" group-title="Xtras" tvg-id="ESPN 3 (MX)", ESPN 3 (MX) No carga
 plugin://script.module.horus?action=play&id=fbc9b6650b886ba0b25c0b9468b625aa6d4a2042
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/espn4.png?raw=true" group-title="Xtras" tvg-id="ESPN 4 (ARG)", ESPN 4 (ARG) No carga
@@ -1253,7 +1247,7 @@ plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (GEO)", Setanta Sports (GEO) No carga
 plugin://script.module.horus?action=play&id=c584dd8c6bb963fa78e6f79d2e3c6a15493f8241
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD no carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD No carga
 plugin://script.module.horus?action=play&id=7af3d01607359fd1777de3d34d8d505ee5591b82
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2 No carga
@@ -1268,7 +1262,7 @@ plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 3 FHD 2", Liga ACB 3 FHD 2 No carga
 plugin://script.module.horus?action=play&id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 3 HD", Liga ACB 3 HD no carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB 3 HD", Liga ACB 3 HD No carga
 plugin://script.module.horus?action=play&id=119087e842ea8857124b9405b10bb6cfffd2900c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD No Carga
@@ -1439,6 +1433,9 @@ plugin://script.module.horus?action=play&id=7e27e46c25d4308d16098d9dc67fcd8736e8
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn4.png?raw=true" group-title="DAZN" tvg-id="DAZN 4 FHD 3", DAZN 4 FHD 3 No carga
 plugin://script.module.horus?action=play&id=9ced16b2055c99bf89c26e678e315e1b01d3734c
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD No carga
+plugin://script.module.horus?action=play&id=5548659c188e1d4d3b6e756e6c56485eb242abac
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 4K", DAZN F1 4K No Carga
 plugin://script.module.horus?action=play&id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 
@@ -1462,6 +1459,9 @@ plugin://script.module.horus?action=play&id=ed6188dcbb491efeb2092c1a6199226c27f6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN Eventos 1", DAZN Eventos 1 No carga
 plugin://script.module.horus?action=play&id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn2.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN Eventos 2", DAZN Eventos 2 No carga
+plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn3.png?raw=true" group-title="DAZN Eventos" tvg-id="DAZN Eventos 3", DAZN Eventos 3 No carga
 plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300447d
