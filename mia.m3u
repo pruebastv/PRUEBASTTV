@@ -1178,6 +1178,9 @@ plugin://script.module.horus?action=play&id=9bb2a7dc6c6a296609df8cc50e742a78194f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD 2", M+ Golf HD 2
 plugin://script.module.horus?action=play&id=f60535a458b3c114283e2f433379144345beddd6
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD 2", Liga ACB FHD 2
+plugin://script.module.horus?action=play&id=0995b9b77ac6198dd92141369707fb99da09bdb2
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB HD", Liga ACB HD
 plugin://script.module.horus?action=play&id=23bee556c002d0726c1f0cac98a1901cff0a9239
 
