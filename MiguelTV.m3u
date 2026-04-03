@@ -489,11 +489,12 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="Información" tvg-id="Pack Motor", Vuelve la Liga debería ir todo bien cualquiera problema me decís feliz semana santa
+plugin://
 
 
 
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", Fin de Semana de motogp y Fórmula 1 Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
 plugin://
 
 
