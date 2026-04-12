@@ -488,11 +488,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Final Alcaraz vs Sinner gratis antes con el pack motor desdé 20€ ahora si quieres seguir viéndolo escribe o llama... se avisó personalmente el 99,9 sólo queréis fútbol..
-plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Chelsea vs Manchester City Premier league gratis antes con el pack motor desdé 20€ ahora si quieres seguir viéndolo escribe o llama...
-plugin://script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1b548
+
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
