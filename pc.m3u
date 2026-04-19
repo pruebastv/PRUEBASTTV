@@ -488,7 +488,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Manchester city vs Arsenal gratis con el pack f1 y motogp desdé 20€
+plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 
 
