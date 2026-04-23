@@ -578,9 +578,6 @@ plugin:// script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
 plugin:// script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
-plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
 plugin:// script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
