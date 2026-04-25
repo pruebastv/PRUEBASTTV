@@ -1262,6 +1262,9 @@ plugin://script.module.horus?action=play&id=93953cc10405f53e1d4ea2c30f1aad25e28a
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/setantasports.png?raw=true" group-title="Xtras" tvg-id="Setanta Sports (GEO)", Setanta Sports (GEO) No carga
 plugin://script.module.horus?action=play&id=c584dd8c6bb963fa78e6f79d2e3c6a15493f8241
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportv.png?raw=true" group-title="Xtras" tvg-id="Sport TV (BE) ", Sport TV (BE) No Carga
+plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD No carga
 plugin://script.module.horus?action=play&id=7af3d01607359fd1777de3d34d8d505ee5591b82
 
