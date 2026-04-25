@@ -489,13 +489,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", Mariano  la 1a opción de OneToro funciona puede qué sólo cuándo haya corridas o cómo se diga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Xtras" tvg-id="OneToro", Mariano ya funciona m Deportes hay tennis y demás y los canales de tennis oficial
 plugin://
 
-
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
-plugin://
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
@@ -565,28 +561,40 @@ plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb2
 plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
-plugin:// script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin:// script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1b548
+plugin://script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1b548
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
-plugin:// script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
-plugin:// script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5 
+plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
-plugin:// script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
+plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
+plugin:// script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel FHD", Tennis Channel FHD
+plugin:// script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
+plugin:// script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
+plugin:// script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin:// script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
-plugin:// script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport360.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 360 HD", Eurosport 360 HD
-plugin:// script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
+plugin://script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
@@ -752,15 +760,6 @@ plugin:// script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Replay ACB (RU)", "Replay" ACB (RU)
 plugin:// script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2df570
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
-plugin:// script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
-plugin:// script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
-plugin:// script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/premiersports1.png?raw=true" group-title="Xtras" tvg-id="Premier Sports 1 (UK)", Premier Sports 1 (UK)
 plugin:// script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
