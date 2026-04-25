@@ -995,14 +995,14 @@ plugin://script.module.horus?action=play&id=c4acde347445b0a07a9e8695b4254bee2b2d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel FHD", Tennis Channel FHD
+plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel HD", Tennis Channel HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel", Tennis Channel
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2 HD", Tennis Channel 2 HD
 plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tennischannel2.png?raw=true" group-title="Xtras" tvg-id="Tennis Channel 2", Tennis Channel 2
-plugin://script.module.horus?action=play&id=52a526d748e26ff0827635b3932d9f49aee14a25
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Repuestos Funcionales 7/3/26 Probado"
 plugin://
