@@ -567,13 +567,13 @@ plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b
 plugin://script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1b548
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
-plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
-plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5 
+plugin://script.module.horus?action=play&id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
-plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf FHD", M+ Golf FHD 
+plugin://script.module.horus?action=play&id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/supertennis.png?raw=true" group-title="Xtras" tvg-id="SuperTennis HD", SuperTennis HD
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
