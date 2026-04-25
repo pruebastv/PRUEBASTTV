@@ -495,7 +495,8 @@
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información",@multisportv Síguenos en tiktok @multisportv Un orgullo que magallan se fije en mi trabajo siendo ellos una inspiración para lo echó
 plugin://
 
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv-tiktok2.png?raw=true" group-title="Información" tvg-id="Información",@multisportv Síguenos en tiktok @multisportv
+plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
