@@ -840,7 +840,10 @@ plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos)", Rally TV (Eventos)
-plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos) 2", Rally TV (Eventos) 2
+plugin://script.module.horus?action=play&id=b6ca8e022947548af61d76660b6b6f799a778d31
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/mmatv.png?raw=true" group-title="Xtras" tvg-id="MMA TV", MMA TV (RU)
 plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b1c04
@@ -857,8 +860,8 @@ plugin://script.module.horus?action=play&id=d9e5e213121f3ea7fbcb216b48c306cd935b
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fightklub.png?raw=true" group-title="Xtras" tvg-id="Fight Klub (PL)", Fight Klub (PL)
 plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa1b29
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportv.png?raw=true" group-title="Xtras" tvg-id="Sport TV (BE) ", Sport TV (BE)
-plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/sportv.png?raw=true" group-title="Xtras" tvg-id="Sport TV", Sport TV
+plugin://script.module.horus?action=play&id=163eefc5f380fc0713eaafca274d95f2259b94ed
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/tvpsport.png?raw=true" group-title="Xtras" tvg-id="TVP Sport (PL)", TVP Sport HD (PL)
 plugin://script.module.horus?action=play&id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
@@ -1060,9 +1063,6 @@ plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f45
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/ufc-fight-pass.png?raw=true" group-title="Xtras" tvg-id="UFC Fight Pass 2 (Eventos)", UFC Fight Pass 2 (Eventos) 
 plugin://script.module.horus?action=play&id=96537527b2d5e858b2e6c863a00dec304254091d
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos) 2", Rally TV (Eventos) 2
-plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/gol.png?raw=true" group-title="Xtras" tvg-id="Gol FHD", Gol FHD
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
@@ -1290,7 +1290,7 @@ plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b
 plugin://script.module.horus?action=play&id=12404b00d2787995d639ccf71a80da5d39d153f9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/rallytv.png?raw=true" group-title="Xtras" tvg-id="Rally TV (Eventos) 3", Rally TV (Eventos) 3 No carga
-plugin://script.module.horus?action=play&id=b6ca8e022947548af61d76660b6b6f799a778d31
+plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD Se Pilla
 plugin://script.module.horus?action=play&id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
