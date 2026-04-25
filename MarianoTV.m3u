@@ -489,7 +489,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Xtras" tvg-id="OneToro", Mariano ya funciona m Deportes hay tennis y demás y los canales de tennis oficial
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Xtras" tvg-id="OneToro", Mariano ya tienes el tennis y m Deportes hay ponen tennis baloncesto y demás
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
 plugin://
 
 
