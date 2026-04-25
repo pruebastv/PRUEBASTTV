@@ -584,6 +584,15 @@ plugin://script.module.horus?action=play&id=e9975d38aaa4475ac0b1fa0faa541bbadd85
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skysports-laliga.png?raw=true" group-title="Xtras" tvg-id="Sky Sports LaLiga hd", Sky Sports LaLiga hd
 plugin://script.module.horus?action=play&id=a9bddffdff085cdc18b34218d5dc1093b88e3c0a
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-seriea.png?raw=true" group-title="Serie A" tvg-id="DAZN Serie A FHD", DAZN Serie A FHD
+plugin://script.module.horus?action=play&id=54fbbb487c134a36622ed39f60184049190d8674
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-seriea.png?raw=true" group-title="Serie A" tvg-id="DAZN Serie A FHD 2", DAZN Serie A FHD 2
+plugin://script.module.horus?action=play&id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-seriea.png?raw=true" group-title="Serie A" tvg-id="DAZN Serie A FHD 3", DAZN Serie A FHD 3
+plugin://script.module.horus?action=play&id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
 plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 
