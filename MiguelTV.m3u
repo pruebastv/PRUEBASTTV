@@ -490,11 +490,18 @@
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Gracias por el apoyo os espero la proxima temporada, El Fallo del motor se llamo para arreglarlo gratis hubo quien no cogio el teléfono o escribio para arreglarlo.
 plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Está lista dejará de funcionar el 1/6/26
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Sigue activa la Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/milogo-mundi26.png?raw=true" group-title="Información" tvg-id="Información", Todo el mundial en FanZone y Dazn Mundial desdé 10€.
+plugin://
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
