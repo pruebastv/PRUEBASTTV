@@ -477,18 +477,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Información" tvg-id="Información",Han tumbado kodispain también no le usaba me parecía una m... se recomienda el pago por visión pero la mierda qué ofrece la corrupción española difícil te lo hace poder hacer sin contar las penubrias económicas de muchos qué por necesidad se ve hacerlo así también...
 plugin://
 
@@ -499,14 +487,17 @@ plugin://
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Está lista dejará de funcionar el 1/6/26
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/milogo-mundi26.png?raw=true" group-title="Información" tvg-id="Información", Todo el mundial en FanZone y Dazn Mundial
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/milogo-mundi26.png?raw=true" group-title="Información" tvg-id="Información", Todo el mundial en FanZone y Dazn Mundial desdé 10€.
 plugin://
 
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fanzone.png?raw=true" group-title="LaLiga" tvg-id="Fanzone M+", Fanzone M+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fanzone.png?raw=true" group-title="LaLiga" tvg-id="Fanzone M+", Fanzone M+ desde 26/5/26
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="LaLiga" tvg-id="DAZN Mundial FHD", DAZN Mundial FHD
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fanzone.png?raw=true" group-title="LaLiga" tvg-id="Fanzone M+ FHD", Fanzone M+ FHD desde 26/5/26
+plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="LaLiga" tvg-id="DAZN Mundial FHD", El 1-6-26 DAZN Mundial FHD
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 
