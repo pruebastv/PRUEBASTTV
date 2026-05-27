@@ -495,7 +495,8 @@ plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d0
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="DAZN Mundial" tvg-id="DAZN Mundial FHD", El 1-6-26 DAZN Mundial
 plugin:// script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro fhd
+plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b41079
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
