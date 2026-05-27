@@ -1556,10 +1556,16 @@ plugin://script.module.horus?action=play&id=b3fc9b5647c5933b101c0b6b64322590c685
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+originales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Originales FHD", Movistar Originales FHD No carga
 plugin://script.module.horus?action=play&id=096b817fcc836535f608facb15fca6408fae3162
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro No carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro Nuevo Funciona a 27/5/26
+plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b41079
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro
+plugin://script.module.horus?action=play&id=536c879d8a914e43141d778b3567fa017c9f5eeb
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro (Eventos)", OneToro (Eventos)
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/toro-oletv.png?raw=true" group-title="Xtras" tvg-id="Torole TV FHD", Torole TV FHD No carga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/toro-oletv.png?raw=true" group-title="Xtras" tvg-id="Torole TV FHD", Torole TV FHD
 plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/xtrm.png?raw=true" group-title="Xtras" tvg-id="Xtrm FHD", Xtrm FHD No carga
