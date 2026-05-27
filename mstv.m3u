@@ -493,6 +493,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fanzone.png?raw=true" group-title="Fanzone" tvg-id="Fanzone M+", Fanzone M+ desde 26/5/26
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/fanzone.png?raw=true" group-title="Fanzone" tvg-id="Fanzone M+", Fanzone M+ op 2 desde 26/5/26
+plugin://script.module.horus?action=play&id=caa631e8850e3eb5e7c039063dd8a339ccef1176
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="DAZN Mundial" tvg-id="DAZN Mundial FHD", El 1-6-26 DAZN Mundial
 plugin:// script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
