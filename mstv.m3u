@@ -508,7 +508,7 @@ plugin://script.module.horus?action=play&id=ccfde4bc75d14c79dd09af72434568a0e732
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="DAZN Mundial" tvg-id="DAZN Mundial FHD", DAZN Mundial FHD 4
 plugin://script.module.horus?action=play&id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="DAZN Mundial" tvg-id="DAZN Mundial FHD", DAZN Mundial FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-mundial.png?raw=true" group-title="DAZN Mundial" tvg-id="DAZN Mundial FHD", DAZN Mundial FHD 5
 plugin://script.module.horus?action=play&id=b2bf586e7ddc31352f120c9274c1441dea3f5418
 
 
