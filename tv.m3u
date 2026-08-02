@@ -496,3 +496,13 @@ plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/Avisos.png?raw=true" group-title="Error" group-title="Actu" tvg-id="Actu", Si ves esto, tu versión no es individual aún, pide tu cambio gratis. El cambio del motor sigue siendo 10€. Se van hacer cambios puede que no te funcione correctamente o deje de funcionar el contenido desde el dia 1 de noviembre.
 plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Multisports", Nueva Temporada desde 40€ Fútbol, la Champions, tennis, baloncesto, motogp, Fórmula 1 y demás deportes desdé 20€
+plugin://
+
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Gracias Víctor por el apoyo os espero la proxima temporada.
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Sigue la Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
+plugin://
