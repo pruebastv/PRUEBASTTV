@@ -480,9 +480,13 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Multisports", Nueva Temporada desde 40€ Fútbol, la Champions, tennis, baloncesto, motogp, Fórmula 1 y demás deportes desdé 40€
+plugin://
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Gracias Mariano por el apoyo os espero la proxima temporada.
+plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Nueva Temporada desde 40€ Gracias Mariano por el apoyo os espero la proxima temporada.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Multisports", Nueva Temporada desde 40€ Fútbol, la Champions, tennis, baloncesto, motogp, Fórmula 1 y demás deportes desdé 40€.
 plugin://
