@@ -869,9 +869,6 @@ plugin://script.module.horus?action=play&id=039719b35e6987a9b5888a8f4b903b3d31d2
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skyshowtime1.png?raw=true" group-title="Canales M+" tvg-id="SkyShowtime 1 Spain FHD", SkyShowtime 1 Spain FHD
 plugin://script.module.horus?action=play&id=d98f8926ec3c7c403cec32530f2ab7725cf88bcf
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skyshowtime11.png?raw=true" group-title="Canales M+" tvg-id="SkyShowtime 1 Spain FHD", SkyShowtime 1 Spain FHD logo2
-plugin://script.module.horus?action=play&id=d98f8926ec3c7c403cec32530f2ab7725cf88bcf
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/mtv.png?raw=true" group-title="Canales M+" tvg-id="MTV Spain FHD", MTV Spain FHD
 plugin://script.module.horus?action=play&id=9a84a44833e4b8dc39a296584d4f587b7ae3163c
 
