@@ -857,19 +857,22 @@ plugin://script.module.horus?action=play&id=3c1b00267a398093848ded743cfdb547e223
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+originales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Originales FHD", Movistar Originales FHD
 plugin://script.module.horus?action=play&id=60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/.png?raw=true" group-title="Canales M+" tvg-id="AXN Movies Spain FHD", AXN Movies Spain FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/axn-movies.png?raw=true" group-title="Canales M+" tvg-id="AXN Movies Spain FHD", AXN Movies Spain FHD
 plugin://script.module.horus?action=play&id=6b4acf7cab48967eccea5c3e89b1e945ceab457c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/syfy.png?raw=true" group-title="Canales M+" tvg-id="Syfy FHD", Syfy FHD
 plugin://script.module.horus?action=play&id=0abff11099cfe1bb45fac7fd29e996a68a9f1463
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/.png?raw=true" group-title="Canales M+" tvg-id="HBO Max Avances Spain FHD", HBO Max Avances Spain FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/hbomax-avances.png?raw=true" group-title="Canales M+" tvg-id="HBO Max Avances Spain FHD", HBO Max Avances Spain FHD
 plugin://script.module.horus?action=play&id=039719b35e6987a9b5888a8f4b903b3d31d2552d
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/.png?raw=true" group-title="Canales M+" tvg-id="SkyShowtime 1 Spain FHD", SkyShowtime 1 Spain FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skyshowtime1.png?raw=true" group-title="Canales M+" tvg-id="SkyShowtime 1 Spain FHD", SkyShowtime 1 Spain FHD
 plugin://script.module.horus?action=play&id=d98f8926ec3c7c403cec32530f2ab7725cf88bcf
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/.png?raw=true" group-title="Canales M+" tvg-id="MTV Spain FHD", MTV Spain FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/skyshowtime11.png?raw=true" group-title="Canales M+" tvg-id="SkyShowtime 1 Spain FHD", SkyShowtime 1 Spain FHD logo2
+plugin://script.module.horus?action=play&id=d98f8926ec3c7c403cec32530f2ab7725cf88bcf
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/mtv.png?raw=true" group-title="Canales M+" tvg-id="MTV Spain FHD", MTV Spain FHD
 plugin://script.module.horus?action=play&id=9a84a44833e4b8dc39a296584d4f587b7ae3163c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/discovery-channel.png?raw=true" group-title="Xtras" tvg-id="Discovery Channel HD (DE)", Discovery Channel HD (DE)
