@@ -803,7 +803,7 @@ plugin://script.module.horus?action=play&id=882074140fca664e119a43294afa2fb4a649
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf 2 FHD 2", M+ Golf 2 FHD 2
 plugin://script.module.horus?action=play&id=ac321484243571f59e077f2a2521e648dc0c7b03
 
-EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 2", Eurosport 1 FHD 2
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 2", Eurosport 1 FHD 2
 plugin://script.module.horus?action=play&id=48a589dbeab3544662fafd79888aada7d834cfe9
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (PL)", Eurosport 1 HD (PL)
