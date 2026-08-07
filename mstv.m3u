@@ -494,7 +494,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Seguir revisando desde Canales Xtras
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
@@ -872,7 +872,7 @@ plugin://script.module.horus?action=play&id=f40d450991da3daa22b7a5007603a139def6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/syfy.png?raw=true" group-title="Xtras" tvg-id="Syfy FHD (DE)", Syfy FHD (DE)
 plugin://script.module.horus?action=play&id=46d79efe06df3307fec2ed5e760128619119eb11
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 7/3/26 Probado"
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Se Pillan o no Cargan 7/8/26 Probado"
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD Se Pilla
