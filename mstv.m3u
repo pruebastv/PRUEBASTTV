@@ -821,6 +821,15 @@ plugin://script.module.horus?action=play&id=6176281b9c46a5621a0e88524f8dc621f173
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 HD (DE)", Eurosport 2 HD (DE)
 plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canal+sports.png?raw=true" group-title="Xtras" tvg-id="Canal+ Sport", Canal+ Sport
+plugin://script.module.horus?action=play&id=fc702b72e42792a13c1f531004c2df2ac8242b69
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canal+sports2.png?raw=true" group-title="Xtras" tvg-id="Canal+ Sport 2", Canal+ Sport 2
+plugin://script.module.horus?action=play&id=bfc8eb5d8ef61518f4b03c3a3c57f817b477d61a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/canal+sports3.png?raw=true" group-title="Xtras" tvg-id="Canal+ Sport 3", Canal+ Sport 3
+plugin://script.module.horus?action=play&id=3a4e20dae3ded815d8e005c493bbf0867324ae2b
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eleven-sports.png?raw=true" group-title="Xtras" tvg-id="Eleven Sport 1 HD (PL)", Eleven Sport 1 HD (PL)
 plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
