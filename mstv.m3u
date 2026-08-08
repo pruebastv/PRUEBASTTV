@@ -795,7 +795,7 @@ plugin://script.module.horus?action=play&id=882074140fca664e119a43294afa2fb4a649
 plugin://script.module.horus?action=play&id=ac321484243571f59e077f2a2521e648dc0c7b03
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD 2", Eurosport 1 FHD 2
-plugin://script.module.horus?action=play&id=48a589dbeab3544662fafd79888aada7d834cfe9
+plugin://script.module.horus?action=play&id=8522af51ae7189b12effabbb448dcb707195ce1a
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 HD (PL)", Eurosport 1 HD (PL)
 plugin://script.module.horus?action=play&id=314eb626864faf52e01624361bd6906b5406127f
