@@ -490,19 +490,65 @@
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Multisports", Nueva Temporada desde 40€ Fútbol, la Champions, tennis, baloncesto, motogp, Fórmula 1 y demás deportes desdé 20€
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Gracias Ramón por el apoyo está nueva temporada.
 plugin://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Gracias Ramón por el apoyo os espero la proxima temporada.
-plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/f1mgp.png?raw=true" group-title="Información" tvg-id="Pack Motor", motogp y Fórmula 1 Sigue la Nueva Temporada desdé 20€ y disfruta del baloncesto, tennis y demás deportes.
-plugin://
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
+plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
+plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 3 FHD", M+ LALIGA TV 3 FHD
+plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
+plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
+plugin://script.module.horus?action=play&id=fa931cbc87dc9d66fdd30a9644e054b403960056
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
+plugin://script.module.horus?action=play&id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
+plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes3.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3 HD
+plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes4.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 4 HD", M+ Deportes 4 HD
+plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes5.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
+plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
+plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
+plugin://script.module.horus?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+plugin://script.module.horus?action=play&id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
+plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD", Liga de Campeones 2 FHD
+plugin://script.module.horus?action=play&id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones3.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 3 FHD", Liga de Campeones 3 FHD
+plugin://script.module.horus?action=play&id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones4.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 4 FHD", Liga de Campeones 4 FHD
+plugin://script.module.horus?action=play&id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
