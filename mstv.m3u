@@ -785,6 +785,15 @@ plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Repuestos Funcionales 7/8/26 Probado"
 plugin://
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
+plugin://script.module.horus?action=play&id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD 2", LaLiga Hypermotion FHD 2
+plugin://script.module.horus?action=play&id=2c54a4def58f41fc0d2163450a63f12955b656aa
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
+plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
 plugin://script.module.horus?action=play&id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
@@ -1054,15 +1063,6 @@ plugin://script.module.horus?action=play&id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-seriea.png?raw=true" group-title="Serie A" tvg-id="DAZN Serie A FHD 3", DAZN Serie A FHD 3 No Carga
 plugin://script.module.horus?action=play&id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD No Carga
-plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD 2", LaLiga Hypermotion FHD 2 No Carga
-plugin://script.module.horus?action=play&id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD No Carga
-plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion 2 FHD", LaLiga Hypermotion 2 FHD No Carga
 plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c28971f8
