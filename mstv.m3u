@@ -503,9 +503,6 @@ plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d1
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
 plugin://script.module.horus?action=play&id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD
-plugin://script.module.horus?action=play&id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
@@ -949,6 +946,9 @@ plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 8", M+ LALIGA TV FHD 8 No Carga
 plugin://script.module.horus?action=play&id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD No Carga
+plugin://script.module.horus?action=play&id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD Se Pilla
 plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
