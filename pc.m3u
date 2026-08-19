@@ -590,8 +590,11 @@ plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Ramón prueba estos Canales de Películas y Series de Regalo.. 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Mariano prueba estos Canales de Películas y Series de Regalo..
 plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+cineespanol.png?raw=true" group-title="Canales M+" tvg-id="Movistar Cine Español FHD", Movistar Cine Español FHD
+plugin://script.module.horus?action=play&id=dc044c79fcde8ed69ed4c878643b09f09e7ccb72
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+estrenos.png?raw=true" group-title="Canales M+" tvg-id="Movistar Estrenos FHD", Movistar Estrenos FHD
 plugin://script.module.horus?action=play&id=fe6dead974cebbb7626458a763ff0e2150dffbe0
@@ -605,26 +608,14 @@ plugin://script.module.horus?action=play&id=b5b4cf132f1c655ed2f0aaa759a6012db140
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+drama.png?raw=true" group-title="Canales M+" tvg-id="Movistar Drama FHD", Movistar Drama FHD
 plugin://script.module.horus?action=play&id=fc469b1e22f9a75bf7079995876955b9b293ef7e
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+cineespanol.png?raw=true" group-title="Canales M+" tvg-id="Movistar Cine Español FHD", Movistar Cine Español FHD
-plugin://script.module.horus?action=play&id=dc044c79fcde8ed69ed4c878643b09f09e7ccb72
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+indie.png?raw=true" group-title="Canales M+" tvg-id="Movistar Indie FHD", Movistar Indie FHD
 plugin://script.module.horus?action=play&id=205cf36437bf4e0643398f62f212832d4b8e271f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+hits.png?raw=true" group-title="Canales M+" tvg-id="Movistar Hits FHD", Movistar Hits FHD
 plugin://script.module.horus?action=play&id=bb78482832c454dfbb932912d65726619f924873
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+documentales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Documentales FHD", Movistar Documentales FHD
-plugin://script.module.horus?action=play&id=3c1b00267a398093848ded743cfdb547e2232216
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+originales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Originales FHD", Movistar Originales FHD
-plugin://script.module.horus?action=play&id=60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/axn-movies.png?raw=true" group-title="Canales M+" tvg-id="AXN Movies Spain FHD", AXN Movies Spain FHD
 plugin://script.module.horus?action=play&id=6b4acf7cab48967eccea5c3e89b1e945ceab457c
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/syfy.png?raw=true" group-title="Canales M+" tvg-id="Syfy FHD", Syfy FHD
-plugin://script.module.horus?action=play&id=0abff11099cfe1bb45fac7fd29e996a68a9f1463
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/hbomax-avances.png?raw=true" group-title="Canales M+" tvg-id="HBO Max Avances Spain FHD", HBO Max Avances Spain FHD
 plugin://script.module.horus?action=play&id=039719b35e6987a9b5888a8f4b903b3d31d2552d
