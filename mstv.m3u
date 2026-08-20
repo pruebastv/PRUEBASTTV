@@ -791,10 +791,10 @@ plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e6
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Canales Xtras "Repuestos Funcionales 7/8/26 Probado"
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 2", M+ LALIGA TV FHD 2
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
 plugin://script.module.horus?action=play&id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 3", M+ LALIGA TV FHD 3
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
 plugin://script.module.horus?action=play&id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD
