@@ -490,7 +490,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Ramón lee bien el mensaje cuándo no se te vea El Contenido funciona el bloqueo es de tú servicio de Internet si quieres ver fantasmas donde no los hay allá tú.... nadie sé quejo más qué tú...
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Antes de culpar y acusar Ramón lee bien el mensaje. El Contenido funciona el bloqueo es de tú servicio de Internet si quieres ver fantasmas donde no los hay allá tú.... nadie sé quejo más qué tú...
 plugin://
 
 
@@ -562,7 +562,7 @@ plugin://script.module.horus?action=play&id=11cbb5346d28af0b972e646832f4be23dd39
 plugin://script.module.horus?action=play&id=342ca6975a4884d81f9fec5c4085a47060bd2028
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD", DAZN MGP HD
-plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b9137
+plugin://script.module.horus?action=play&id=129c707eb4854171d178a566f36d90b7f2b5e624
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
