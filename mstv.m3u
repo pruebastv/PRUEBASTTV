@@ -609,7 +609,7 @@ plugin://script.module.horus?action=play&id=342ca6975a4884d81f9fec5c4085a47060bd
 plugin://script.module.horus?action=play&id=c53bdb3be55d12c5188d25085f1bb16911c15cea
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD", DAZN MGP HD
-plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b9137
+plugin://script.module.horus?action=play&id=129c707eb4854171d178a566f36d90b7f2b5e624
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
@@ -1320,7 +1320,7 @@ plugin://script.module.horus?action=play&id=5548659c188e1d4d3b6e756e6c56485eb242
 plugin://script.module.horus?action=play&id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD", DAZN MGP HD No Carga
-plugin://script.module.horus?action=play&id=129c707eb4854171d178a566f36d90b7f2b5e624
+plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b9137
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="MGP" tvg-id="Sky MGP FHD", Sky MGP FHD No Carga
 plugin://script.module.horus?action=play&id=18b03739d660f0066364343e226e437bf2555d56
