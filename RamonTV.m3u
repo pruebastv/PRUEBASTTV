@@ -490,9 +490,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Gracias Ramón por el apoyo está nueva temporada.
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Toda la jornada en M+ LALIGA TV
 plugin://
-
 
 
 
@@ -509,9 +508,6 @@ plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d1
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
 plugin://script.module.horus?action=play&id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 3 FHD", M+ LALIGA TV 3 FHD
-plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
@@ -558,9 +554,6 @@ plugin://script.module.horus?action=play&id=11cbb5346d28af0b972e646832f4be23dd39
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD 4", DAZN MGP FHD 4
 plugin://script.module.horus?action=play&id=342ca6975a4884d81f9fec5c4085a47060bd2028
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP HD", DAZN MGP HD
-plugin://script.module.horus?action=play&id=ac33342ccf7d40d46174229085461d95000b9137
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
 
@@ -572,6 +565,3 @@ plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d83681580
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 FHD 4", DAZN F1 FHD 4
 plugin://script.module.horus?action=play&id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 HD
-plugin://script.module.horus?action=play&id=20086a76248efe8d5230c15d41c69bae8fa6381c
