@@ -490,7 +490,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Toda la jornada en M+ LALIGA TV
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Toda la jornada en M+ LALIGA TV y M+ LALIGA TV 2
 plugin://
 
 
