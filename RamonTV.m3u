@@ -490,7 +490,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Hoy termina la jornada 4 en M+ LALIGA TV
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Hoy termina la jornada 4 en M+ LALIGA TV y M+ LALIGA TV 2
 plugin://
 
 
@@ -509,6 +509,9 @@ plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d1
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 4", M+ LALIGA TV FHD 4
 plugin://script.module.horus?action=play&id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
+plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
