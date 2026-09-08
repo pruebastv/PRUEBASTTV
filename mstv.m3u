@@ -899,6 +899,9 @@ plugin://script.module.horus?action=play&id=5620c0ce3dcbf14a6375cb2c2d681207f45e
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones5.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 5 FHD 2", Liga de Campeones 5 FHD 2
 plugin://script.module.horus?action=play&id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones5.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 5 FHD 3", Liga de Campeones 5 FHD 3
+plugin://script.module.horus?action=play&id=3e430d14ef1cf1c147c7b06332081291e05a1431
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
 plugin://script.module.horus?action=play&id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
 
