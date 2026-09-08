@@ -524,36 +524,6 @@ plugin://script.module.horus?action=play&id=385abcf801b787eec6ed6624908758bb165c
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD
 plugin://script.module.horus?action=play&id=465075c02b7284f564911bd63d1c6f0a8d464be7
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
-plugin://script.module.horus?action=play&id=fa931cbc87dc9d66fdd30a9644e054b403960056
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
-plugin://script.module.horus?action=play&id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
-plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
-plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes3.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3 HD
-plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes4.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 4 HD", M+ Deportes 4 HD
-plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes5.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
-plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
-plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
-plugin://script.module.horus?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
-plugin://script.module.horus?action=play&id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
@@ -583,6 +553,36 @@ plugin://script.module.horus?action=play&id=5620c0ce3dcbf14a6375cb2c2d681207f45e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones5.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 5 FHD 2", Liga de Campeones 5 FHD 2
 plugin://script.module.horus?action=play&id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD", Movistar+ FHD
+plugin://script.module.horus?action=play&id=fa931cbc87dc9d66fdd30a9644e054b403960056
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD", Vamos FHD
+plugin://script.module.horus?action=play&id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes2.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2 HD
+plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes3.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3 HD
+plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes4.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 4 HD", M+ Deportes 4 HD
+plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes5.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
+plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
+plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
+plugin://script.module.horus?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport2.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+plugin://script.module.horus?action=play&id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn1.png?raw=true" group-title="DAZN" tvg-id="DAZN 1 FHD", DAZN 1 FHD
 plugin://script.module.horus?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
