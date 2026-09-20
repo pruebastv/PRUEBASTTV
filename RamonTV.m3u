@@ -492,11 +492,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", El Contenido Funciona si te bloquea tu operador Recuerda activar el antibloqueo
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Si tienes problemas llama o escribe hay parón ligero El Contenido sigue Funcionando si te bloquea tu operador Recuerda activar el antibloqueo
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Si tienes problemas para ver el derbi o demás llama o escribe 
-plugin://
+
 
 
 
