@@ -648,10 +648,10 @@ plugin://script.module.horus?action=play&id=895d08633bb22c2573281655cf3ca44de476
 plugin://script.module.horus?action=play&id=ee4646aae30d862e0d9d453998a344a60aaa7cde
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 HD
-plugin://script.module.horus?action=play&id=27d11bbeb3026231d52de16b1fac48da7a099247
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 HD No Carga
 plugin://script.module.horus?action=play&id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 HD 2", DAZN F1 HD 2
+plugin://script.module.horus?action=play&id=27d11bbeb3026231d52de16b1fac48da7a099247
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznf1.png?raw=true" group-title="F1" tvg-id="DAZN F1 (BE)", DAZN F1 (BE)
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
