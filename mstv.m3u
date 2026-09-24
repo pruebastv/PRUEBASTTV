@@ -575,6 +575,12 @@ plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee999
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+deportes5.png?raw=true" group-title="M+Deportes" tvg-id="M+ Deportes 5 HD", M+ Deportes 5 HD
 plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="M+ Baloncesto" tvg-id="M+ Baloncesto FHD", M+ Baloncesto FHD
+plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="M+ Baloncesto" tvg-id="M+ Baloncesto 2 FHD", M+ Baloncesto 2 FHD
+plugin://script.module.horus?action=play&id=88113ee23295b8930ae328a88a8c1b861b8f21f1
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
@@ -959,17 +965,11 @@ plugin://script.module.horus?action=play&id=882074140fca664e119a43294afa2fb4a649
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf 2 FHD 2", M+ Golf 2 FHD 2
 plugin://script.module.horus?action=play&id=ac321484243571f59e077f2a2521e648dc0c7b03
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
-
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB FHD 2
 plugin://script.module.horus?action=play&id=4005aabe21ba9c6d748845db91e4f48d99f58639
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB HD", Liga ACB HD
 plugin://script.module.horus?action=play&id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB 2 FHD
-plugin://script.module.horus?action=play&id=88113ee23295b8930ae328a88a8c1b861b8f21f1
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/acb.png?raw=true" group-title="Liga ACB" tvg-id="Liga ACB FHD", Liga ACB 2 FHD 2
 plugin://script.module.horus?action=play&id=853129258a5cb51f27829eddb934e58b45978344
