@@ -582,19 +582,22 @@ plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa76
 plugin://script.module.horus?action=play&id=88113ee23295b8930ae328a88a8c1b861b8f21f1
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto FHD", Dazn Baloncesto FHD
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+plugin://script.module.horus?action=play&id=4005aabe21ba9c6d748845db91e4f48d99f58639
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto FHD", Dazn Baloncesto HD
+plugin://script.module.horus?action=play&id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto2.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto 2 FHD", Dazn Baloncesto 2 FHD
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+plugin://script.module.horus?action=play&id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto22.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto 2 FHD", Dazn Baloncesto 2 FHD
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto22.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto 2 FHD", Dazn Baloncesto 22 FHD
+plugin://script.module.horus?action=play&id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto3.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto 3 FHD", Dazn Baloncesto 3 FHD
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+plugin://script.module.horus?action=play&id=95125f755562c0ffcb44abd94e338bd65472afea
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto33.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto 3 FHD", Dazn Baloncesto 3 FHD
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-baloncesto33.png?raw=true" group-title="Baloncesto" tvg-id="Dazn Baloncesto 3 FHD", Dazn Baloncesto 33 FHD
+plugin://script.module.horus?action=play&id=95125f755562c0ffcb44abd94e338bd65472afea
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+golf.png?raw=true" group-title="M+Deportes" tvg-id="M+ Golf HD", M+ Golf HD 
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
