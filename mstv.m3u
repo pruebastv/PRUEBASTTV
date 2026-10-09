@@ -957,22 +957,13 @@ plugin://script.module.horus?action=play&id=5ba9368d80d2f87ac1c6d71df4e7e6e26e69
 plugin://script.module.horus?action=play&id=3e430d14ef1cf1c147c7b06332081291e05a1431
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
-plugin://script.module.horus?action=play&id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+plugin://script.module.horus?action=play&id=135c420f704d717b8913b2a66b2722fd6b2c127c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD
-plugin://script.module.horus?action=play&id=2c54a4def58f41fc0d2163450a63f12955b656aa
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD 2", LaLiga Hypermotion HD 2
-plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
+plugin://script.module.horus?action=play&id=ee8ce83c44dc9b1e331672e2a0166e2830b00040
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="1a Federación" tvg-id="1a Federación FHD", 1a Federación FHD
 plugin://script.module.horus?action=play&id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="1a Federación" tvg-id="1a Federación FHD 2", 1a Federación FHD 2
-plugin://script.module.horus?action=play&id=177796041773be99b489dd3ce86144f243e7355f
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="1a Federación" tvg-id="1a Federación FHD 3", 1a Federación FHD 3
-plugin://script.module.horus?action=play&id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/vamos.png?raw=true" group-title="M+Deportes" tvg-id="Vamos FHD 2", Vamos FHD 2
 plugin://script.module.horus?action=play&id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
@@ -1220,6 +1211,15 @@ plugin://script.module.horus?action=play&id=54fbbb487c134a36622ed39f60184049190d
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-seriea.png?raw=true" group-title="Serie A" tvg-id="DAZN Serie A FHD 3", DAZN Serie A FHD 3 No Carga
 plugin://script.module.horus?action=play&id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD No Carga
+plugin://script.module.horus?action=play&id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD", LaLiga Hypermotion HD No Carga
+plugin://script.module.horus?action=play&id=2c54a4def58f41fc0d2163450a63f12955b656aa
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion HD 2", LaLiga Hypermotion HD 2 No Carga
+plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-hypermotion.png?raw=true" group-title="LigaHypermotion" tvg-id="LaLiga Hypermotion 2 FHD", LaLiga Hypermotion 2 FHD No Carga
 plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 
@@ -1228,6 +1228,12 @@ plugin://script.module.horus?action=play&id=3a21e651c0bffe810cfc8537065cb81f5ed6
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="1a Federación" tvg-id="1a Federación FHD", 1a Federación FHD No Carga
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="1a Federación" tvg-id="1a Federación FHD 2", 1a Federación FHD 2 No Carga
+plugin://script.module.horus?action=play&id=177796041773be99b489dd3ce86144f243e7355f
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/1afederacion.png?raw=true" group-title="1a Federación" tvg-id="1a Federación FHD 3", 1a Federación FHD 3 No Carga
+plugin://script.module.horus?action=play&id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+.png?raw=true" group-title="M+Deportes" tvg-id="Movistar+ FHD 2", Movistar+ FHD 2 No Carga
 plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
