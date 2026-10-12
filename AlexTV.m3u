@@ -492,10 +492,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Probar qué todo vaya bien el 9 de octubre vuelve la liga
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="Información" tvg-id="Información", Vuelve la Champions cualquier cosa me decís 0 avisos el finde todo bien me alegró
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", El Contenido siguió Funcionando si te bloquea tu operador Recuerda activar el antibloqueo
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Si te bloquea tu operador Recuerda activar el antibloqueo
 plugin://
 
 
