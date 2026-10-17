@@ -492,8 +492,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="Información" tvg-id="Información", Hoy Europa y Conference League cualquier cosa me decís 0 avisos en Champions todo bien me alegró
-plugin://
+
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Si te bloquea tu operador Recuerda activar el antibloqueo
 plugin://
@@ -526,10 +525,10 @@ plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10
 plugin://script.module.horus?action=play&id=385abcf801b787eec6ed6624908758bb165c0a55
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 3", DAZN LaLiga FHD 3
-plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+plugin://script.module.horus?action=play&id=9c588ac92554746c489bc553773d959f6d2dfd8e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 4", DAZN LaLiga FHD 4
-plugin://script.module.horus?action=play&id=385abcf801b787eec6ed6624908758bb165c0a55
+plugin://script.module.horus?action=play&id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD
 plugin://script.module.horus?action=play&id=465075c02b7284f564911bd63d1c6f0a8d464be7
