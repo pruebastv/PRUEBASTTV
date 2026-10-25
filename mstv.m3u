@@ -533,6 +533,9 @@ plugin://script.module.horus?action=play&id=688e785893b50acc1d00cb37f15bfc42e72f
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 7", DAZN LaLiga FHD 7
 plugin://script.module.horus?action=play&id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 9", DAZN LaLiga FHD 8
+plugin://script.module.horus?action=play&id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
 plugin://script.module.horus?action=play&id=385abcf801b787eec6ed6624908758bb165c0a55
 
@@ -881,11 +884,8 @@ plugin://script.module.horus?action=play&id=67966d205968de9cf95dcffe3b2ff6888b10
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga3.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 3 FHD", M+ LALIGA TV 3 FHD
 plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 8", DAZN LaLiga FHD 8 Se Pilla
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 8", DAZN LaLiga FHD 9 Se Pilla
 plugin://script.module.horus?action=play&id=55538acc9fd25a9ea6df5c842eb0327f87eac300
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 9", DAZN LaLiga FHD 9 No Carga
-plugin://script.module.horus?action=play&id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga", People Laliga en Ruso
 plugin://script.module.horus?action=play&id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
