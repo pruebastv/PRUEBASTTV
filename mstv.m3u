@@ -891,6 +891,12 @@ plugin://
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 5", M+ LALIGA TV FHD 5
 plugin://script.module.horus?action=play&id=0febfb5cac3384f487d55c559bbfc877db2d0357
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 6", M+ LALIGA TV FHD 6
+plugin://script.module.horus?action=play&id=cdf251af580d44a71302fb5634b734981a77f8b7
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD 7", M+ LALIGA TV FHD 7
+plugin://script.module.horus?action=play&id=9564bbcd75b67dfb2bd13f5f4d285cbba477a06f
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV HD", M+ LALIGA TV HD
 plugin://script.module.horus?action=play&id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
 
