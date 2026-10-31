@@ -493,6 +493,15 @@
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Se está arreglando problemas con Danz laliga el resto va bien
 plugin://
 
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Rayo Celta Dazn laliga 2 y Betis Malaga Dazn laliga
+plugin://
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD Funcional
+plugin://script.module.horus?action=play&id=46949ff98c05dd3471da249f2c7121d6fa198294
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga 2 FHD", DAZN LaLiga 2 FHD Funcional
+plugin://script.module.horus?action=play&id=e8b742b2d33a53f7c3c190e0cdbdcc8904eb3607
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Si te bloquea tu operador Recuerda activar el antibloqueo
