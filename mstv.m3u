@@ -931,9 +931,6 @@ plugin://script.module.horus?action=play&id=a203f6b935a8ad8659c4c76c1d9c13afa636
 plugin://script.module.horus?action=play&id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga", Laliga en "Ruso" 4
-plugin://script.module.horus?action=play&id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga", Laliga en "Ruso" 5
 plugin://script.module.horus?action=play&id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones HD 2", Liga de Campeones HD 2
