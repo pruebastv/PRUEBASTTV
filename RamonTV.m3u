@@ -554,8 +554,11 @@ plugin://script.module.horus?action=play&id=12ea555d431dbe51fc8e4ca745aec09fe22a
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD 3", Liga de Campeones FHD 6
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD 3", Liga de Campeones FHD 7
-plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD 7
+plugin://script.module.horus?action=play&id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones FHD", Liga de Campeones FHD 8
+plugin://script.module.horus?action=play&id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/liga-de-campeones2.png?raw=true" group-title="ChampionsLeague" tvg-id="Liga de Campeones 2 FHD", Liga de Campeones 2 FHD
 plugin://script.module.horus?action=play&id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
