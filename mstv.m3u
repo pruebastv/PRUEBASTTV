@@ -496,29 +496,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD Funcional
-plugin://script.module.horus?action=play&id=46949ff98c05dd3471da249f2c7121d6fa198294
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD Funcional 2
-plugin://script.module.horus?action=play&id=3097d7e7ff0fe414711ee067a841168b6f5671cb
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD Funcional 3
-plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD Funcional 4
-plugin://script.module.horus?action=play&id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD Funcional 5
-plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD Funcional 6
-plugin://script.module.horus?action=play&id=e38b33c56332de27ff25df223cdf488b1ec6051f
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD Funcional 7
-plugin://script.module.horus?action=play&id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD 5", DAZN LaLiga FHD Funcional 8
-plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
