@@ -493,11 +493,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Se está arreglando problemas con Danz laliga el resto va bien cualquier cosa escribe o llama
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", "Arreglado" los problemas con Danz laliga cualquier cosa escribe o llama
 plugin://
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Getafe Sevilla Dazn laliga 2 y Racing Real Madrid y Derbi Vasco Dazn laliga Funcionales
-plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/dazn-la-liga-v2.png?raw=true" group-title="LaLiga" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD Funcional
 plugin://script.module.horus?action=play&id=46949ff98c05dd3471da249f2c7121d6fa198294
