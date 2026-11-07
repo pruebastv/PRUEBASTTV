@@ -1119,7 +1119,7 @@ plugin://script.module.horus?action=play&id=3a4e20dae3ded815d8e005c493bbf0867324
 plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro (Eventos)", OneToro (Eventos)
-plugin://script.module.horus?action=play&id=889db6c87a28fd5b3092333b63bcdddf05d26216
+plugin://script.module.horus?action=play&id=b6daf481a4c2eed0c1b6a473a841aea980d188c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+estrenos.png?raw=true" group-title="Canales M+" tvg-id="Movistar Estrenos FHD", Movistar Estrenos FHD
 plugin://script.module.horus?action=play&id=fe6dead974cebbb7626458a763ff0e2150dffbe0
@@ -1606,6 +1606,9 @@ plugin://script.module.horus?action=play&id=b3fc9b5647c5933b101c0b6b64322590c685
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m+originales.png?raw=true" group-title="Canales M+" tvg-id="Movistar Originales FHD", Movistar Originales FHD No Carga
 plugin://script.module.horus?action=play&id=096b817fcc836535f608facb15fca6408fae3162
+
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro (Eventos)", OneToro (Eventos) No Carga
+plugin://script.module.horus?action=play&id=889db6c87a28fd5b3092333b63bcdddf05d26216
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro", OneToro No Carga
 plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b41079
