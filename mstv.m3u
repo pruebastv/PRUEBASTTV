@@ -499,26 +499,28 @@
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD
 plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD 2
-plugin://script.module.horus?action=play&id=cdf251af580d44a71302fb5634b734981a77f8b7
+plugin://script.module.horus?action=play&id=3d4c3b9d44af0658a9ec6b29c92033f732b65422
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD 3
-plugin://script.module.horus?action=play&id=2772b75c3bc7cfe214514a7745f63024620f3a29
+plugin://script.module.horus?action=play&id=25ba36fb3ff78d37b304177cb5b9f9f84348d2ad
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD 4
-plugin://script.module.horus?action=play&id=2816e0c7e4f6a19a0cc9d1c363936a186ab89771
+plugin://script.module.horus?action=play&id=72626ce6e2f0dc8f0a71ac1d9b960d3cc166c86e
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV FHD 5
 plugin://script.module.horus?action=play&id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV HD
-plugin://script.module.horus?action=play&id=9564bbcd75b67dfb2bd13f5f4d285cbba477a06f
+plugin://script.module.horus?action=play&id=69f76f6516620d91612e7509077b5ac3bb4d3c0b
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV FHD", M+ LALIGA TV HD 2
-plugin://script.module.horus?action=play&id=e1825dc2deae9f24ef55e6ff11fe780201ae758d
+plugin://script.module.horus?action=play&id=1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/m-la-liga2.png?raw=true" group-title="LaLiga" tvg-id="M+ LALIGA TV 2 FHD", M+ LALIGA TV 2 FHD
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
