@@ -563,7 +563,7 @@ plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c674770
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro (Eventos)", OneToro (Eventos)
-plugin://script.module.horus?action=play&id=889db6c87a28fd5b3092333b63bcdddf05d26216
+plugin://script.module.horus?action=play&id=b6daf481a4c2eed0c1b6a473a841aea980d188c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor", Mariano DAZN MGP solo Funciona con carreras en vivo diferidas en Dazn 1
 plugin://
