@@ -569,7 +569,7 @@ plugin://script.module.horus?action=play&id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87d
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/onetoro.png?raw=true" group-title="Xtras" tvg-id="OneToro (Eventos)", OneToro (Eventos)
-plugin://script.module.horus?action=play&id=889db6c87a28fd5b3092333b63bcdddf05d26216
+plugin://script.module.horus?action=play&id=b6daf481a4c2eed0c1b6a473a841aea980d188c
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/eurosport1.png?raw=true" group-title="M+Deportes" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
 plugin://script.module.horus?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
