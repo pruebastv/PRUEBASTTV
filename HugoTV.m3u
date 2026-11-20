@@ -490,7 +490,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Hay parón de selecciones la liga vuelve el 20 de Noviembre
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Vuelve la liga cualquier falló me decís por ahora bien 
 plugin://
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Información", Si te bloquea tu operador Recuerda activar el antibloqueo
