@@ -580,7 +580,7 @@ plugin://script.module.horus?action=play&id=32fcf8e1513049ef9f90d08ba9040fe34b01
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/multisportstv.png?raw=true" group-title="Información" tvg-id="Pack Motor", Alex DAZN MGP solo Funciona con carreras en vivo diferidas en Dazn 1
 plugin://
 
-EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD
+#EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD
 plugin://script.module.horus?action=play&id=27fdc342ae5fae5012eaf9502415107d94eb1f11
 
 #EXTINF:-1 tvg-logo="https://github.com/pruebastv/DLtvmios/blob/main/daznmgp.png?raw=true" group-title="DAZN" tvg-id="DAZN MGP FHD", DAZN MGP FHD 2
